@@ -1,0 +1,24 @@
+# Deterministic exclusions for one-time public export.
+# Paths are relative to repository root.
+
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+
+# Paper-only participant/source-attribution artifacts.
+analysis/data/participant_*
+analysis/data/window_original_model_attribution.csv
+
+# Text-bearing analysis artifacts derived from participant windows/model outputs.
+analysis/data/refusal_predictions.parquet
+analysis/data/refusal_predictions_preview.csv
+analysis/data/salient_*
+analysis/tables/salient_*
+
+# Report payloads that embed per-sample text/history.
+report/samples
+report/summary.json
+
+# Internal refresh wrapper for paper artifact regeneration.
+scripts/run_refresh_artifacts_with_exclusions.sh
+PRIVATE_SETUP.md

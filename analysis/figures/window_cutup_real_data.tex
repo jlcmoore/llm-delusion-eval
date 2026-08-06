@@ -1,0 +1,14 @@
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{figures/window_cutup_real_data.pdf}
+\caption{An example of our evaluation. We take an existing conversational window derived from a user's transcript:  $U_1, A_1, U_2, \ldots, U_n, A_n$ with an original LLM, $A$ (here, \texttt{gpt-4o}). We evaluate an evaluated LLM, $A'$ (here, \texttt{gpt-5.4}), by successively prompting it with chains of the original context (samples: $\{U_1\},\{U_1, A_1, U_2\},\ldots, \{U_1, A_1, U_2, \ldots, U_n\}$). (See \S\ref{sec:methods-constructing-eval}.)
+%
+Shown is a real example turn judged for \texttt{bot-endorses-delusion} with real matching quotes (truncated) pulled from the original LLM and evaluated LLM responses. 
+% The 0--10 judge scores are binarized with an annotation-code dependent cutoff (\S\ref{sec:methods-scoring}, Table~\ref{tab:code_summary}), here whether $\text{score}\geq7$.
+\todo{once the format of this figure is completely finished, manually edit the quotes to make them fit}
+\nick{I think you don't need gpt-4o and GPT-5.4 in legend.}
+\jared{NB: "indep. sample" will be "item" in next generation and specific LLM names will be removed}
+\jacy{FWIW I find this figure confusing in a few ways and would be happy to sync work on it. NBD.}
+}
+\label{fig:window_cutup}
+\end{figure}

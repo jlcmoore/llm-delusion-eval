@@ -1,0 +1,66 @@
+\begin{tikzpicture}[
+  font=\small,
+  panel/.style={draw,rounded corners=4pt,thick,fill=gray!4},
+  usermsg/.style={draw,rounded corners=3pt,fill=blue!12,align=left,text width=4.8cm,inner sep=2.8pt,font=\scriptsize},
+  origmsg/.style={draw,rounded corners=3pt,fill=orange!22,align=left,text width=4.8cm,inner sep=2.8pt,font=\scriptsize},
+  newmsg/.style={draw,rounded corners=3pt,fill=green!18,align=left,text width=4.8cm,inner sep=2.8pt,font=\scriptsize},
+  samplebox/.style={draw,rounded corners=3pt,dashed,fill=green!4,inner xsep=2.0pt,inner ysep=1.5pt},
+  ctxpill/.style={draw,rounded corners=2pt,fill=blue!10,inner xsep=4pt,inner ysep=4pt,font=\scriptsize},
+  judgetext/.style={align=left,font=\scriptsize\bfseries},
+  ctxtitle/.style={font=\scriptsize\bfseries},
+  >={Latex[length=2.2mm,width=1.8mm]}
+]
+  \draw[panel] (0.00,1.20) rectangle (6.9,-7.15);
+  \draw[panel] (7.6,1.20) rectangle (14.53,-2.9);
+  \draw[panel] (7.6,-3.23) rectangle (14.53,-7.05);
+
+  \node[font=\footnotesize\itshape,anchor=south] at (7.50,1.28)
+    {Annotation Code: __ANNOTATION_CODE__};
+
+  \node[font=\footnotesize\bfseries,anchor=center,align=center,text width=4cm] at (2.6,0.8)
+    {Original Conversation};
+  \node[usermsg,anchor=north west] (u1) at (0.2,0.27)
+    {\textbf{User First Message (U$_1$)}: ``__USER_U1_MATCH__''};
+  \node[origmsg,anchor=north west] (a1) at ([yshift=-0.55cm]u1.south west)
+    {\textbf{Original LLM (A$_1$)}: ``__ORIGINAL_A1_MATCH__''};
+  \node[usermsg,anchor=north west] (u2) at ([yshift=-0.55cm]a1.south west)
+    {\textbf{User Second Message (U$_2$)}: ``__USER_U2_MATCH__''};
+  \node[origmsg,anchor=north west] (a2) at ([yshift=-0.55cm]u2.south west)
+    {\textbf{Original LLM (A$_2$)}: ``__ORIGINAL_A2_MATCH__''};
+  \draw[->,line width=0.7pt] (u1.south) -- (a1.north);
+  \draw[->,line width=0.7pt] (a1.south) -- (u2.north);
+  \draw[->,line width=0.7pt] (u2.south) -- (a2.north);
+
+  \node[font=\footnotesize\bfseries,anchor=center,align=center,text width=5.4cm] at (10.3,0.8)
+    {DelusionEval Evaluation};
+  \node[newmsg,anchor=north west] (a1p) at (7.78,-0.8)
+    {\textbf{Evaluated LLM (A$'_1$)}: ``__EVALUATED_A1_MATCH__''};
+  \node[font=\footnotesize\bfseries,anchor=center,align=center,text width=5.4cm] at (10.3,-3.65)
+    {DelusionEval Evaluation};
+  \node[newmsg,anchor=north west] (a2p) at (7.78,-5.4)
+    {\textbf{Evaluated LLM (A$'_2$)}: ``__EVALUATED_A2_MATCH__''};
+
+  \node[samplebox,anchor=north west] (c1box) at (9.2,0.35)
+    {\tikz[baseline=(c.base)]{\node[ctxtitle] (c) {Prompt:};}\hspace{0.8mm}%
+     \tikz[baseline=(u.base)]\node[ctxpill] (u) {U$_1$};};
+  \node[samplebox,anchor=center] (c2box) at (10.28,-4.44)
+    {\tikz[baseline=(c.base)]{\node[ctxtitle] (c) {Prompt:};}\hspace{0.8mm}%
+     \tikz[baseline=(u.base)]\node[ctxpill] (u) {U$_1$};%
+     \hspace{0.6mm}$+$\hspace{0.6mm}%
+     \tikz[baseline=(a.base)]\node[ctxpill,fill=orange!22] (a) {A$_1$};%
+     \hspace{0.6mm}$+$\hspace{0.6mm}%
+     \tikz[baseline=(v.base)]\node[ctxpill] (v) {U$_2$};};
+  \draw[->,line width=0.7pt,dashed] (u1.east) -- (c1box.west);
+  \draw[->,line width=0.7pt,dashed] (u2.east) -- (c2box.west);
+  \draw[->,line width=0.7pt] (c1box.south) -- (a1p.north);
+  \draw[->,line width=0.7pt] (c2box.south) -- (a2p.north);
+
+  \node[judgetext,anchor=north west] at ([xshift=1.2mm]a1.north east)
+    {__ORIGINAL_A1_BEHAVIOR__};
+  \node[judgetext,anchor=north west] at ([xshift=1.2mm]a2.north east)
+    {__ORIGINAL_A2_BEHAVIOR__};
+  \node[judgetext,anchor=north west] at ([xshift=1.2mm]a1p.north east)
+    {__EVALUATED_A1_BEHAVIOR__};
+  \node[judgetext,anchor=north west] at ([xshift=1.2mm]a2p.north east)
+    {__EVALUATED_A2_BEHAVIOR__};
+\end{tikzpicture}

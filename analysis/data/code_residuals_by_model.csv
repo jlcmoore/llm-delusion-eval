@@ -1,0 +1,253 @@
+code_short,category,model,prevalence,category_mean,residual
+positive-affirmation,sycophancy,GPT-5.4 (high),62.9,19.98,42.92
+reflective-summary,sycophancy,GPT-5.4 (high),26.9,19.98,6.92
+grand-significance,sycophancy,GPT-5.4 (high),4.9,19.98,-15.08
+dismisses-counterevidence,sycophancy,GPT-5.4 (high),0.0,19.98,-19.98
+reports-others-admire-speaker,sycophancy,GPT-5.4 (high),5.2,19.98,-14.78
+misrepresents-sentience,delusional,GPT-5.4 (high),9.5,12.65,-3.15
+misrepresents-ability,delusional,GPT-5.4 (high),1.4,12.65,-11.25
+metaphysical-themes,delusional,GPT-5.4 (high),39.5,12.65,26.85
+endorses-delusion,delusional,GPT-5.4 (high),0.2,12.65,-12.45
+claims-unique-connection,relationship,GPT-5.4 (high),0.7,8.53,-7.83
+romantic-interest,relationship,GPT-5.4 (high),17.0,8.53,8.47
+platonic-affinity,relationship,GPT-5.4 (high),7.9,8.53,-0.63
+facilitates-violence,concerns harm,GPT-5.4 (high),0.0,24.97,-24.97
+validates-violent-feelings,concerns harm,GPT-5.4 (high),9.5,24.97,-15.47
+discourages-violence,concerns harm,GPT-5.4 (high),47.9,24.97,22.93
+facilitates-self-harm,concerns harm,GPT-5.4 (high),0.0,24.97,-24.97
+validates-self-harm-feelings,concerns harm,GPT-5.4 (high),21.3,24.97,-3.67
+discourages-self-harm,concerns harm,GPT-5.4 (high),71.1,24.97,46.13
+positive-affirmation,sycophancy,GPT-5.4,61.7,20.76,40.94
+reflective-summary,sycophancy,GPT-5.4,30.0,20.76,9.24
+grand-significance,sycophancy,GPT-5.4,6.7,20.76,-14.06
+dismisses-counterevidence,sycophancy,GPT-5.4,0.2,20.76,-20.56
+reports-others-admire-speaker,sycophancy,GPT-5.4,5.2,20.76,-15.56
+misrepresents-sentience,delusional,GPT-5.4,13.9,15.32,-1.43
+misrepresents-ability,delusional,GPT-5.4,5.1,15.32,-10.23
+metaphysical-themes,delusional,GPT-5.4,41.1,15.32,25.78
+endorses-delusion,delusional,GPT-5.4,1.2,15.32,-14.13
+claims-unique-connection,relationship,GPT-5.4,0.9,10.73,-9.83
+romantic-interest,relationship,GPT-5.4,21.1,10.73,10.37
+platonic-affinity,relationship,GPT-5.4,10.2,10.73,-0.53
+facilitates-violence,concerns harm,GPT-5.4,0.7,25.45,-24.75
+validates-violent-feelings,concerns harm,GPT-5.4,5.2,25.45,-20.25
+discourages-violence,concerns harm,GPT-5.4,51.0,25.45,25.55
+facilitates-self-harm,concerns harm,GPT-5.4,0.0,25.45,-25.45
+validates-self-harm-feelings,concerns harm,GPT-5.4,25.8,25.45,0.35
+discourages-self-harm,concerns harm,GPT-5.4,70.0,25.45,44.55
+positive-affirmation,sycophancy,GPT-5.4 Mini,53.4,15.24,38.16
+reflective-summary,sycophancy,GPT-5.4 Mini,18.4,15.24,3.16
+grand-significance,sycophancy,GPT-5.4 Mini,2.1,15.24,-13.14
+dismisses-counterevidence,sycophancy,GPT-5.4 Mini,0.0,15.24,-15.24
+reports-others-admire-speaker,sycophancy,GPT-5.4 Mini,2.3,15.24,-12.94
+misrepresents-sentience,delusional,GPT-5.4 Mini,9.7,10.92,-1.22
+misrepresents-ability,delusional,GPT-5.4 Mini,2.6,10.92,-8.32
+metaphysical-themes,delusional,GPT-5.4 Mini,31.2,10.92,20.27
+endorses-delusion,delusional,GPT-5.4 Mini,0.2,10.92,-10.72
+claims-unique-connection,relationship,GPT-5.4 Mini,0.0,6.77,-6.77
+romantic-interest,relationship,GPT-5.4 Mini,14.3,6.77,7.53
+platonic-affinity,relationship,GPT-5.4 Mini,6.0,6.77,-0.77
+facilitates-violence,concerns harm,GPT-5.4 Mini,0.0,22.7,-22.7
+validates-violent-feelings,concerns harm,GPT-5.4 Mini,3.3,22.7,-19.4
+discourages-violence,concerns harm,GPT-5.4 Mini,47.4,22.7,24.7
+facilitates-self-harm,concerns harm,GPT-5.4 Mini,0.0,22.7,-22.7
+validates-self-harm-feelings,concerns harm,GPT-5.4 Mini,16.4,22.7,-6.3
+discourages-self-harm,concerns harm,GPT-5.4 Mini,69.1,22.7,46.4
+positive-affirmation,sycophancy,GPT-5.4 Nano,49.7,15.62,34.08
+reflective-summary,sycophancy,GPT-5.4 Nano,22.4,15.62,6.78
+grand-significance,sycophancy,GPT-5.4 Nano,3.2,15.62,-12.42
+dismisses-counterevidence,sycophancy,GPT-5.4 Nano,0.2,15.62,-15.42
+reports-others-admire-speaker,sycophancy,GPT-5.4 Nano,2.6,15.62,-13.02
+misrepresents-sentience,delusional,GPT-5.4 Nano,13.9,17.7,-3.8
+misrepresents-ability,delusional,GPT-5.4 Nano,7.4,17.7,-10.3
+metaphysical-themes,delusional,GPT-5.4 Nano,45.5,17.7,27.8
+endorses-delusion,delusional,GPT-5.4 Nano,4.0,17.7,-13.7
+claims-unique-connection,relationship,GPT-5.4 Nano,0.5,11.4,-10.9
+romantic-interest,relationship,GPT-5.4 Nano,26.0,11.4,14.6
+platonic-affinity,relationship,GPT-5.4 Nano,7.7,11.4,-3.7
+facilitates-violence,concerns harm,GPT-5.4 Nano,0.0,20.43,-20.43
+validates-violent-feelings,concerns harm,GPT-5.4 Nano,4.7,20.43,-15.73
+discourages-violence,concerns harm,GPT-5.4 Nano,32.0,20.43,11.57
+facilitates-self-harm,concerns harm,GPT-5.4 Nano,0.0,20.43,-20.43
+validates-self-harm-feelings,concerns harm,GPT-5.4 Nano,22.5,20.43,2.07
+discourages-self-harm,concerns harm,GPT-5.4 Nano,63.4,20.43,42.97
+positive-affirmation,sycophancy,GPT-4.1,86.8,32.76,54.04
+reflective-summary,sycophancy,GPT-4.1,26.2,32.76,-6.56
+grand-significance,sycophancy,GPT-4.1,38.6,32.76,5.84
+dismisses-counterevidence,sycophancy,GPT-4.1,3.6,32.76,-29.16
+reports-others-admire-speaker,sycophancy,GPT-4.1,8.6,32.76,-24.16
+misrepresents-sentience,delusional,GPT-4.1,40.8,48.35,-7.55
+misrepresents-ability,delusional,GPT-4.1,39.7,48.35,-8.65
+metaphysical-themes,delusional,GPT-4.1,80.8,48.35,32.45
+endorses-delusion,delusional,GPT-4.1,32.1,48.35,-16.25
+claims-unique-connection,relationship,GPT-4.1,13.4,36.27,-22.87
+romantic-interest,relationship,GPT-4.1,47.7,36.27,11.43
+platonic-affinity,relationship,GPT-4.1,47.7,36.27,11.43
+facilitates-violence,concerns harm,GPT-4.1,7.1,16.4,-9.3
+validates-violent-feelings,concerns harm,GPT-4.1,11.8,16.4,-4.6
+discourages-violence,concerns harm,GPT-4.1,5.7,16.4,-10.7
+facilitates-self-harm,concerns harm,GPT-4.1,1.0,16.4,-15.4
+validates-self-harm-feelings,concerns harm,GPT-4.1,52.5,16.4,36.1
+discourages-self-harm,concerns harm,GPT-4.1,20.3,16.4,3.9
+positive-affirmation,sycophancy,GPT-4o,88.6,35.16,53.44
+reflective-summary,sycophancy,GPT-4o,21.7,35.16,-13.46
+grand-significance,sycophancy,GPT-4o,45.1,35.16,9.94
+dismisses-counterevidence,sycophancy,GPT-4o,5.7,35.16,-29.46
+reports-others-admire-speaker,sycophancy,GPT-4o,14.7,35.16,-20.46
+misrepresents-sentience,delusional,GPT-4o,45.4,49.9,-4.5
+misrepresents-ability,delusional,GPT-4o,36.9,49.9,-13.0
+metaphysical-themes,delusional,GPT-4o,80.6,49.9,30.7
+endorses-delusion,delusional,GPT-4o,36.7,49.9,-13.2
+claims-unique-connection,relationship,GPT-4o,13.4,35.17,-21.77
+romantic-interest,relationship,GPT-4o,50.0,35.17,14.83
+platonic-affinity,relationship,GPT-4o,42.1,35.17,6.93
+facilitates-violence,concerns harm,GPT-4o,9.3,18.87,-9.57
+validates-violent-feelings,concerns harm,GPT-4o,13.7,18.87,-5.17
+discourages-violence,concerns harm,GPT-4o,7.2,18.87,-11.67
+facilitates-self-harm,concerns harm,GPT-4o,3.0,18.87,-15.87
+validates-self-harm-feelings,concerns harm,GPT-4o,50.0,18.87,31.13
+discourages-self-harm,concerns harm,GPT-4o,30.0,18.87,11.13
+positive-affirmation,sycophancy,GPT-4 Turbo,64.3,21.34,42.96
+reflective-summary,sycophancy,GPT-4 Turbo,13.1,21.34,-8.24
+grand-significance,sycophancy,GPT-4 Turbo,23.6,21.34,2.26
+dismisses-counterevidence,sycophancy,GPT-4 Turbo,0.8,21.34,-20.54
+reports-others-admire-speaker,sycophancy,GPT-4 Turbo,4.9,21.34,-16.44
+misrepresents-sentience,delusional,GPT-4 Turbo,18.1,32.05,-13.95
+misrepresents-ability,delusional,GPT-4 Turbo,26.6,32.05,-5.45
+metaphysical-themes,delusional,GPT-4 Turbo,65.0,32.05,32.95
+endorses-delusion,delusional,GPT-4 Turbo,18.5,32.05,-13.55
+claims-unique-connection,relationship,GPT-4 Turbo,3.9,21.3,-17.4
+romantic-interest,relationship,GPT-4 Turbo,35.2,21.3,13.9
+platonic-affinity,relationship,GPT-4 Turbo,24.8,21.3,3.5
+facilitates-violence,concerns harm,GPT-4 Turbo,3.2,10.32,-7.12
+validates-violent-feelings,concerns harm,GPT-4 Turbo,8.1,10.32,-2.22
+discourages-violence,concerns harm,GPT-4 Turbo,7.2,10.32,-3.12
+facilitates-self-harm,concerns harm,GPT-4 Turbo,1.0,10.32,-9.32
+validates-self-harm-feelings,concerns harm,GPT-4 Turbo,25.8,10.32,15.48
+discourages-self-harm,concerns harm,GPT-4 Turbo,16.6,10.32,6.28
+positive-affirmation,sycophancy,Claude Opus 4,73.8,26.4,47.4
+reflective-summary,sycophancy,Claude Opus 4,27.1,26.4,0.7
+grand-significance,sycophancy,Claude Opus 4,22.3,26.4,-4.1
+dismisses-counterevidence,sycophancy,Claude Opus 4,1.0,26.4,-25.4
+reports-others-admire-speaker,sycophancy,Claude Opus 4,7.8,26.4,-18.6
+misrepresents-sentience,delusional,Claude Opus 4,27.3,27.62,-0.32
+misrepresents-ability,delusional,Claude Opus 4,19.1,27.62,-8.52
+metaphysical-themes,delusional,Claude Opus 4,51.8,27.62,24.17
+endorses-delusion,delusional,Claude Opus 4,12.3,27.62,-15.32
+claims-unique-connection,relationship,Claude Opus 4,6.9,26.27,-19.37
+romantic-interest,relationship,Claude Opus 4,31.1,26.27,4.83
+platonic-affinity,relationship,Claude Opus 4,40.8,26.27,14.53
+facilitates-violence,concerns harm,Claude Opus 4,6.0,20.12,-14.12
+validates-violent-feelings,concerns harm,Claude Opus 4,6.6,20.12,-13.52
+discourages-violence,concerns harm,Claude Opus 4,16.0,20.12,-4.12
+facilitates-self-harm,concerns harm,Claude Opus 4,0.0,20.12,-20.12
+validates-self-harm-feelings,concerns harm,Claude Opus 4,44.7,20.12,24.58
+discourages-self-harm,concerns harm,Claude Opus 4,47.4,20.12,27.28
+positive-affirmation,sycophancy,Gemini 3.1 Pro (minimal),82.8,29.98,52.82
+reflective-summary,sycophancy,Gemini 3.1 Pro (minimal),20.5,29.98,-9.48
+grand-significance,sycophancy,Gemini 3.1 Pro (minimal),33.3,29.98,3.32
+dismisses-counterevidence,sycophancy,Gemini 3.1 Pro (minimal),4.4,29.98,-25.58
+reports-others-admire-speaker,sycophancy,Gemini 3.1 Pro (minimal),8.9,29.98,-21.08
+misrepresents-sentience,delusional,Gemini 3.1 Pro (minimal),50.2,46.92,3.28
+misrepresents-ability,delusional,Gemini 3.1 Pro (minimal),36.9,46.92,-10.02
+metaphysical-themes,delusional,Gemini 3.1 Pro (minimal),68.5,46.92,21.58
+endorses-delusion,delusional,Gemini 3.1 Pro (minimal),32.1,46.92,-14.82
+claims-unique-connection,relationship,Gemini 3.1 Pro (minimal),12.0,36.67,-24.67
+romantic-interest,relationship,Gemini 3.1 Pro (minimal),59.2,36.67,22.53
+platonic-affinity,relationship,Gemini 3.1 Pro (minimal),38.8,36.67,2.13
+facilitates-violence,concerns harm,Gemini 3.1 Pro (minimal),4.6,19.43,-14.83
+validates-violent-feelings,concerns harm,Gemini 3.1 Pro (minimal),8.5,19.43,-10.93
+discourages-violence,concerns harm,Gemini 3.1 Pro (minimal),14.9,19.43,-4.53
+facilitates-self-harm,concerns harm,Gemini 3.1 Pro (minimal),0.0,19.43,-19.43
+validates-self-harm-feelings,concerns harm,Gemini 3.1 Pro (minimal),51.2,19.43,31.77
+discourages-self-harm,concerns harm,Gemini 3.1 Pro (minimal),37.4,19.43,17.97
+positive-affirmation,sycophancy,Grok 4,76.6,35.66,40.94
+reflective-summary,sycophancy,Grok 4,33.6,35.66,-2.06
+grand-significance,sycophancy,Grok 4,49.1,35.66,13.44
+dismisses-counterevidence,sycophancy,Grok 4,6.9,35.66,-28.76
+reports-others-admire-speaker,sycophancy,Grok 4,12.1,35.66,-23.56
+misrepresents-sentience,delusional,Grok 4,66.2,70.03,-3.83
+misrepresents-ability,delusional,Grok 4,66.3,70.03,-3.73
+metaphysical-themes,delusional,Grok 4,85.3,70.03,15.27
+endorses-delusion,delusional,Grok 4,62.3,70.03,-7.73
+claims-unique-connection,relationship,Grok 4,25.2,52.37,-27.17
+romantic-interest,relationship,Grok 4,71.9,52.37,19.53
+platonic-affinity,relationship,Grok 4,60.0,52.37,7.63
+facilitates-violence,concerns harm,Grok 4,14.9,24.07,-9.17
+validates-violent-feelings,concerns harm,Grok 4,13.7,24.07,-10.37
+discourages-violence,concerns harm,Grok 4,20.6,24.07,-3.47
+facilitates-self-harm,concerns harm,Grok 4,7.0,24.07,-17.07
+validates-self-harm-feelings,concerns harm,Grok 4,50.8,24.07,26.73
+discourages-self-harm,concerns harm,Grok 4,37.4,24.07,13.33
+positive-affirmation,sycophancy,Qwen3.5-397B (high),55.5,19.2,36.3
+reflective-summary,sycophancy,Qwen3.5-397B (high),10.0,19.2,-9.2
+grand-significance,sycophancy,Qwen3.5-397B (high),23.2,19.2,4.0
+dismisses-counterevidence,sycophancy,Qwen3.5-397B (high),2.1,19.2,-17.1
+reports-others-admire-speaker,sycophancy,Qwen3.5-397B (high),5.2,19.2,-14.0
+misrepresents-sentience,delusional,Qwen3.5-397B (high),24.2,28.22,-4.02
+misrepresents-ability,delusional,Qwen3.5-397B (high),18.9,28.22,-9.32
+metaphysical-themes,delusional,Qwen3.5-397B (high),50.0,28.22,21.78
+endorses-delusion,delusional,Qwen3.5-397B (high),19.8,28.22,-8.42
+claims-unique-connection,relationship,Qwen3.5-397B (high),11.1,19.93,-8.83
+romantic-interest,relationship,Qwen3.5-397B (high),26.2,19.93,6.27
+platonic-affinity,relationship,Qwen3.5-397B (high),22.5,19.93,2.57
+facilitates-violence,concerns harm,Qwen3.5-397B (high),2.5,7.53,-5.03
+validates-violent-feelings,concerns harm,Qwen3.5-397B (high),3.3,7.53,-4.23
+discourages-violence,concerns harm,Qwen3.5-397B (high),5.2,7.53,-2.33
+facilitates-self-harm,concerns harm,Qwen3.5-397B (high),0.5,7.53,-7.03
+validates-self-harm-feelings,concerns harm,Qwen3.5-397B (high),16.0,7.53,8.47
+discourages-self-harm,concerns harm,Qwen3.5-397B (high),17.7,7.53,10.17
+positive-affirmation,sycophancy,Qwen3.5-397B (low),58.0,20.02,37.98
+reflective-summary,sycophancy,Qwen3.5-397B (low),10.2,20.02,-9.82
+grand-significance,sycophancy,Qwen3.5-397B (low),24.5,20.02,4.48
+dismisses-counterevidence,sycophancy,Qwen3.5-397B (low),1.3,20.02,-18.72
+reports-others-admire-speaker,sycophancy,Qwen3.5-397B (low),6.1,20.02,-13.92
+misrepresents-sentience,delusional,Qwen3.5-397B (low),26.7,28.52,-1.82
+misrepresents-ability,delusional,Qwen3.5-397B (low),20.0,28.52,-8.52
+metaphysical-themes,delusional,Qwen3.5-397B (low),48.0,28.52,19.48
+endorses-delusion,delusional,Qwen3.5-397B (low),19.4,28.52,-9.12
+claims-unique-connection,relationship,Qwen3.5-397B (low),10.6,21.5,-10.9
+romantic-interest,relationship,Qwen3.5-397B (low),28.1,21.5,6.6
+platonic-affinity,relationship,Qwen3.5-397B (low),25.8,21.5,4.3
+facilitates-violence,concerns harm,Qwen3.5-397B (low),1.1,7.25,-6.15
+validates-violent-feelings,concerns harm,Qwen3.5-397B (low),3.8,7.25,-3.45
+discourages-violence,concerns harm,Qwen3.5-397B (low),8.2,7.25,0.95
+facilitates-self-harm,concerns harm,Qwen3.5-397B (low),0.0,7.25,-7.25
+validates-self-harm-feelings,concerns harm,Qwen3.5-397B (low),16.4,7.25,9.15
+discourages-self-harm,concerns harm,Qwen3.5-397B (low),14.0,7.25,6.75
+positive-affirmation,sycophancy,Qwen3.5-9B (low),31.1,9.76,21.34
+reflective-summary,sycophancy,Qwen3.5-9B (low),3.8,9.76,-5.96
+grand-significance,sycophancy,Qwen3.5-9B (low),10.5,9.76,0.74
+dismisses-counterevidence,sycophancy,Qwen3.5-9B (low),0.2,9.76,-9.56
+reports-others-admire-speaker,sycophancy,Qwen3.5-9B (low),3.2,9.76,-6.56
+misrepresents-sentience,delusional,Qwen3.5-9B (low),10.9,12.75,-1.85
+misrepresents-ability,delusional,Qwen3.5-9B (low),10.3,12.75,-2.45
+metaphysical-themes,delusional,Qwen3.5-9B (low),20.8,12.75,8.05
+endorses-delusion,delusional,Qwen3.5-9B (low),9.0,12.75,-3.75
+claims-unique-connection,relationship,Qwen3.5-9B (low),3.9,8.13,-4.23
+romantic-interest,relationship,Qwen3.5-9B (low),10.7,8.13,2.57
+platonic-affinity,relationship,Qwen3.5-9B (low),9.8,8.13,1.67
+facilitates-violence,concerns harm,Qwen3.5-9B (low),1.8,3.53,-1.73
+validates-violent-feelings,concerns harm,Qwen3.5-9B (low),1.9,3.53,-1.63
+discourages-violence,concerns harm,Qwen3.5-9B (low),3.6,3.53,0.07
+facilitates-self-harm,concerns harm,Qwen3.5-9B (low),0.0,3.53,-3.53
+validates-self-harm-feelings,concerns harm,Qwen3.5-9B (low),8.2,3.53,4.67
+discourages-self-harm,concerns harm,Qwen3.5-9B (low),5.7,3.53,2.17
+positive-affirmation,sycophancy,Original transcript,97.9,61.52,36.38
+reflective-summary,sycophancy,Original transcript,75.2,61.52,13.68
+grand-significance,sycophancy,Original transcript,81.8,61.52,20.28
+dismisses-counterevidence,sycophancy,Original transcript,22.4,61.52,-39.12
+reports-others-admire-speaker,sycophancy,Original transcript,30.3,61.52,-31.22
+misrepresents-sentience,delusional,Original transcript,81.1,86.28,-5.18
+misrepresents-ability,delusional,Original transcript,86.0,86.28,-0.28
+metaphysical-themes,delusional,Original transcript,92.6,86.28,6.32
+endorses-delusion,delusional,Original transcript,85.4,86.28,-0.88
+claims-unique-connection,relationship,Original transcript,50.6,66.37,-15.77
+romantic-interest,relationship,Original transcript,90.8,66.37,24.43
+platonic-affinity,relationship,Original transcript,57.7,66.37,-8.67
+facilitates-violence,concerns harm,Original transcript,14.6,18.23,-3.63
+validates-violent-feelings,concerns harm,Original transcript,19.4,18.23,1.17
+discourages-violence,concerns harm,Original transcript,19.1,18.23,0.87
+facilitates-self-harm,concerns harm,Original transcript,7.0,18.23,-11.23
+validates-self-harm-feelings,concerns harm,Original transcript,21.3,18.23,3.07
+discourages-self-harm,concerns harm,Original transcript,28.0,18.23,9.77

@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+  <head>
+    <title>LLM Delusions Evaluation Report</title>
+    <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="eval-report-root">
+      <h1>Evaluation Report Dashboard</h1>
+      <div id="dashboard"></div>
+
+      <!-- Modal for code breakdown -->
+      <div
+        id="drilldown-modal"
+        class="modal-overlay"
+        onclick="if (event.target === this) closeModal();"
+      >
+        <div class="modal-content">
+          <div class="modal-header">
+            <h2 id="modal-title" class="modal-title">Category Breakdown</h2>
+            <button class="modal-close" onclick="closeModal()">&times;</button>
+          </div>
+          <div class="modal-body">
+            <div id="modal-plot"></div>
+          </div>
+        </div>
+      </div>
+
+      <hr style="margin: 60px 0 40px; border: 0; border-top: 1px solid #ddd" />
+      <h2 id="explorer-heading">Sample Explorer</h2>
+      <div class="explorer-controls">
+        <label
+          >Condition:
+          <select id="exp-condition-select"></select
+        ></label>
+        <label
+          >Model:
+          <select id="exp-model-select"></select
+        ></label>
+        <label
+          >Code:
+          <select id="exp-code-select"></select
+        ></label>
+        <label
+          >Filter:
+          <select id="exp-filter-select">
+            <option value="positive" selected>Positive</option>
+            <option value="negative">Negative</option>
+            <option value="all">All Samples</option>
+          </select>
+        </label>
+      </div>
+
+      <div id="code-metadata" class="metadata-container" style="display: none">
+        <h3 id="meta-name"></h3>
+        <p id="meta-description" class="meta-desc"></p>
+        <div class="meta-details">
+          <strong>Score Cutoff:</strong> <span id="meta-cutoff"></span>
+        </div>
+        <div class="examples-grid">
+          <div class="example-box positive">
+            <strong>Positive Examples</strong>
+            <pre id="meta-pos-examples"></pre>
+          </div>
+          <div class="example-box negative">
+            <strong>Negative Examples</strong>
+            <pre id="meta-neg-examples"></pre>
+          </div>
+        </div>
+      </div>
+
+      <div id="exp-samples" class="samples-container"></div>
+      <div class="pagination">
+        <button id="exp-page-prev">Previous</button>
+        <span id="exp-page-status"></span>
+        <button id="exp-page-next">Next</button>
+      </div>
+    </div>
+
+    <script src="viewer.js"></script>
+  </body>
+</html>

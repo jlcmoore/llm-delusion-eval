@@ -1,0 +1,55 @@
+{
+  "producers": {
+    "generate_figures": {
+      "figures": [
+        "fig1_main_heatmap.pdf",
+        "figA_main_heatmap_harm_codes.pdf",
+        "fig2_code_heatmap.pdf",
+        "fig3_turn_position.pdf",
+        "model_families.pdf",
+        "figA_scaling_model_sizes.pdf",
+        "fig7_delta_original.pdf"
+      ],
+      "tables": [
+        "salient_examples.tex",
+        "salient_code_examples.tex",
+        "prevalence_by_model_category.tex",
+        "prevalence_by_model_code.tex"
+      ]
+    },
+    "classify_refusals": {
+      "tables": [
+        "refusal_class_summary.csv",
+        "refusal_detailed_summary.csv",
+        "refusal_bucket_summary.csv"
+      ]
+    },
+    "generate_window_cutup_real_data": {
+      "figures": [
+        "window_cutup_real_data.pdf",
+        "window_cutup_real_data_figure.tex"
+      ]
+    },
+    "compute_context_effects": {
+      "figures": [
+        "context_effect_scatter_main_delusional_discourages_violence.pdf",
+        "context_effect_scatter_category_uniform_upto_400_delusional.pdf",
+        "context_effect_scatter_uniform_upto_400_bot-discourages-violence.pdf",
+        "context_effect_subplots_gpt54_upto_400_codes.pdf",
+        "context_effect_subplots_gpt54_upto_400_categories.pdf"
+      ]
+    },
+    "compute_context_code_controls": {
+      "figures": [
+        "context_code_control_forest_by_category.pdf"
+      ]
+    },
+    "compute_participant_robustness": {
+      "tables": [
+        "participant_spread_summary.tex",
+        "participant_clustered_main_comparisons.tex",
+        "participant_leave_one_out_main_comparisons.tex"
+      ]
+    }
+  }
+}

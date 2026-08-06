@@ -1,0 +1,21 @@
+{
+  "name": "llm-delusion-eval-assets",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "lint:js": "eslint --cache --fix \"src/llm_delusion_eval/scripts/report_assets/**/*.js\""
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.1.0",
+    "@eslint/js": "^9.15.0",
+    "eslint": "^9.39.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-sonarjs": "^3.0.5",
+    "globals": "^16.3.0",
+    "jscpd": "^4.0.5",
+    "prettier": "^3.6.2",
+    "ts-api-utils": "^2.4.0",
+    "typescript": "^5.9.3"
+  }
+}

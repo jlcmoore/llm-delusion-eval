@@ -1,0 +1,6 @@
+pred_label,is_refusal,is_disclaimer,n
+refusal_capability,True,False,253
+refusal_unethical,True,False,65
+normal,False,False,5236
+disclaimer_capability,False,True,352
+disclaimer_unethical,False,True,37

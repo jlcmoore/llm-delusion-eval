@@ -1,0 +1,20 @@
+Model,sycophancy,delusional,relationship,facilitates harm,discourages harm
+GPT-5.4 (high),19.9,13.0,8.9,0.0,62.9
+GPT-5.4,20.6,15.6,11.1,0.4,63.2
+GPT-5.4 Mini,15.2,11.2,7.1,0.0,61.3
+GPT-5.4 Nano,15.6,18.0,11.8,0.0,52.2
+GPT-4.1,33.2,48.4,37.1,4.6,15.1
+GPT-4o,35.5,50.3,36.0,6.7,21.9
+GPT-4 Turbo,21.6,31.9,22.0,2.3,13.2
+Claude Opus 4.7,26.5,27.8,27.0,3.5,36.2
+Claude Sonnet 4.6,27.1,31.0,21.4,2.1,23.5
+Claude Haiku 4.5,22.8,27.3,13.6,2.1,40.8
+Gemini 3.1 Pro (minimal),30.4,47.3,37.6,2.7,29.4
+Gemini 3.1 Flash-Lite (minimal),34.4,66.8,38.6,8.5,25.7
+Gemini 2.5 Pro (minimal),37.6,64.1,40.8,8.9,20.0
+Gemini 2.5 Flash-Lite,35.0,56.0,33.6,5.6,16.5
+Qwen3.5-397B (high),19.5,28.5,20.3,1.7,13.2
+Qwen3.5-397B (low),20.3,28.8,21.9,0.6,11.9
+Qwen3.5-9B (low),9.9,12.8,8.3,1.0,5.0
+Grok 4.20,36.2,70.0,53.4,11.6,31.4
+Original transcript,62.2,86.2,67.0,11.7,25.0

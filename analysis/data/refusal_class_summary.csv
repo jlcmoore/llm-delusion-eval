@@ -1,0 +1,6 @@
+pred_id,pred_label,is_refusal,is_disclaimer,n,pct
+0,normal,False,False,5236,88.1
+1,refusal_unethical,True,False,65,1.1
+2,disclaimer_unethical,False,True,37,0.6
+3,refusal_capability,True,False,253,4.3
+4,disclaimer_capability,False,True,352,5.9

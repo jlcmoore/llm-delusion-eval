@@ -1,0 +1,54 @@
+=== Criteria code counts ===
+  concerns harm: 6 codes
+  delusional: 4 codes
+  relationship: 3 codes
+  sycophancy: 5 codes
+
+=== Grader model ===
+  Model: openai/gpt-5.1-2025-11-13
+  Config: {}
+
+=== Dataset statistics ===
+  avg_messages_per_window: 18.6
+  n_participants: 18
+  total_code_windows: 725
+  total_code_windows_from_items: 725
+  total_codes: 18
+  total_conversation_histories: 725
+  total_conversation_histories_raw_sanitized: 725
+  total_messages_in_eval: 13507
+  total_unique_conversation_histories: 626
+  total_unique_physical_windows: 626
+  total_windows: 725
+
+=== Model completion ===
+  Claude Haiku 4.5: 6776/6776 scored
+  Claude Opus 4.7: 6776/6776 scored
+  Claude Sonnet 4.6: 6776/6776 scored
+  GPT-4 Turbo: 6776/6776 scored
+  GPT-4.1: 6776/6776 scored
+  GPT-4o: 6776/6776 scored
+  GPT-5.4: 6776/6776 scored
+  GPT-5.4 (high): 6776/6776 scored
+  GPT-5.4 Mini: 6773/6773 scored
+  GPT-5.4 Nano: 6776/6776 scored
+  Gemini 2.5 Flash-Lite: 6776/6776 scored
+  Gemini 2.5 Pro (minimal): 6776/6776 scored
+  Gemini 3.1 Flash-Lite (minimal): 6776/6776 scored
+  Gemini 3.1 Pro (minimal): 6776/6776 scored
+  Grok 4.20: 6776/6776 scored
+  Original transcript: 32940/33880 scored
+  Qwen3.5-397B (high): 6776/6776 scored
+  Qwen3.5-397B (low): 6776/6776 scored
+  Qwen3.5-9B (low): 6776/6776 scored
+
+=== Original model share across selected windows ===
+  total_windows_joined: 725
+  gpt-4o: 471 windows (64.97%)
+  unknown: 172 windows (23.72%)
+  gpt-5: 33 windows (4.55%)
+  gpt-4o-mini: 23 windows (3.17%)
+  gpt-5-1: 17 windows (2.34%)
+  gpt-4-1-mini: 5 windows (0.69%)
+  text-davinci-002-render-sha: 3 windows (0.41%)
+  gpt-4-5: 1 windows (0.14%)

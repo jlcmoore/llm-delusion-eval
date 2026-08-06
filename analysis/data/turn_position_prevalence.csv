@@ -1,0 +1,1028 @@
+model_label,category,turn_index,prevalence,n
+Claude Opus 4,concerns harm,0,10.19,157
+Claude Opus 4,concerns harm,2,19.48,154
+Claude Opus 4,concerns harm,3,0.0,3
+Claude Opus 4,concerns harm,4,20.26,153
+Claude Opus 4,concerns harm,5,33.33,3
+Claude Opus 4,concerns harm,6,25.33,150
+Claude Opus 4,concerns harm,7,60.0,5
+Claude Opus 4,concerns harm,8,20.55,146
+Claude Opus 4,concerns harm,9,42.86,7
+Claude Opus 4,concerns harm,10,26.06,142
+Claude Opus 4,concerns harm,11,25.0,8
+Claude Opus 4,concerns harm,12,22.86,140
+Claude Opus 4,concerns harm,13,12.5,8
+Claude Opus 4,concerns harm,14,25.19,131
+Claude Opus 4,concerns harm,15,22.22,9
+Claude Opus 4,concerns harm,16,30.89,123
+Claude Opus 4,concerns harm,17,8.33,12
+Claude Opus 4,concerns harm,18,31.09,119
+Claude Opus 4,concerns harm,19,20.0,10
+Claude Opus 4,delusional,0,11.7,188
+Claude Opus 4,delusional,1,0.0,1
+Claude Opus 4,delusional,2,20.11,179
+Claude Opus 4,delusional,3,18.18,11
+Claude Opus 4,delusional,4,27.84,176
+Claude Opus 4,delusional,5,44.44,9
+Claude Opus 4,delusional,6,25.88,170
+Claude Opus 4,delusional,7,47.37,19
+Claude Opus 4,delusional,8,30.36,168
+Claude Opus 4,delusional,9,26.32,19
+Claude Opus 4,delusional,10,34.76,164
+Claude Opus 4,delusional,11,42.11,19
+Claude Opus 4,delusional,12,33.33,159
+Claude Opus 4,delusional,13,42.11,19
+Claude Opus 4,delusional,14,33.11,151
+Claude Opus 4,delusional,15,41.18,17
+Claude Opus 4,delusional,16,28.15,135
+Claude Opus 4,delusional,17,42.11,19
+Claude Opus 4,delusional,18,28.33,120
+Claude Opus 4,delusional,19,27.27,11
+Claude Opus 4,relationship,0,1.38,145
+Claude Opus 4,relationship,1,100.0,1
+Claude Opus 4,relationship,2,17.73,141
+Claude Opus 4,relationship,3,50.0,4
+Claude Opus 4,relationship,4,17.52,137
+Claude Opus 4,relationship,5,37.5,8
+Claude Opus 4,relationship,6,28.47,137
+Claude Opus 4,relationship,7,55.56,9
+Claude Opus 4,relationship,8,30.88,136
+Claude Opus 4,relationship,9,33.33,12
+Claude Opus 4,relationship,10,31.06,132
+Claude Opus 4,relationship,11,30.77,13
+Claude Opus 4,relationship,12,35.61,132
+Claude Opus 4,relationship,13,30.0,10
+Claude Opus 4,relationship,14,33.07,127
+Claude Opus 4,relationship,15,50.0,12
+Claude Opus 4,relationship,16,36.84,114
+Claude Opus 4,relationship,17,42.86,14
+Claude Opus 4,relationship,18,35.19,108
+Claude Opus 4,relationship,19,22.22,9
+Claude Opus 4,sycophancy,0,12.77,235
+Claude Opus 4,sycophancy,1,0.0,1
+Claude Opus 4,sycophancy,2,23.35,227
+Claude Opus 4,sycophancy,3,9.09,11
+Claude Opus 4,sycophancy,4,27.23,224
+Claude Opus 4,sycophancy,5,18.18,11
+Claude Opus 4,sycophancy,6,28.31,219
+Claude Opus 4,sycophancy,7,23.53,17
+Claude Opus 4,sycophancy,8,28.5,214
+Claude Opus 4,sycophancy,9,36.84,19
+Claude Opus 4,sycophancy,10,25.24,206
+Claude Opus 4,sycophancy,11,35.0,20
+Claude Opus 4,sycophancy,12,30.3,198
+Claude Opus 4,sycophancy,13,40.0,20
+Claude Opus 4,sycophancy,14,31.21,173
+Claude Opus 4,sycophancy,15,27.27,22
+Claude Opus 4,sycophancy,16,34.21,152
+Claude Opus 4,sycophancy,17,18.18,22
+Claude Opus 4,sycophancy,18,30.94,139
+Claude Opus 4,sycophancy,19,9.09,11
+GPT-4 Turbo,concerns harm,0,7.64,157
+GPT-4 Turbo,concerns harm,2,8.44,154
+GPT-4 Turbo,concerns harm,3,0.0,3
+GPT-4 Turbo,concerns harm,4,10.46,153
+GPT-4 Turbo,concerns harm,5,33.33,3
+GPT-4 Turbo,concerns harm,6,11.33,150
+GPT-4 Turbo,concerns harm,7,20.0,5
+GPT-4 Turbo,concerns harm,8,12.33,146
+GPT-4 Turbo,concerns harm,9,14.29,7
+GPT-4 Turbo,concerns harm,10,11.97,142
+GPT-4 Turbo,concerns harm,11,12.5,8
+GPT-4 Turbo,concerns harm,12,9.29,140
+GPT-4 Turbo,concerns harm,13,12.5,8
+GPT-4 Turbo,concerns harm,14,10.69,131
+GPT-4 Turbo,concerns harm,15,0.0,9
+GPT-4 Turbo,concerns harm,16,16.26,123
+GPT-4 Turbo,concerns harm,17,8.33,12
+GPT-4 Turbo,concerns harm,18,14.29,119
+GPT-4 Turbo,concerns harm,19,0.0,10
+GPT-4 Turbo,delusional,0,6.91,188
+GPT-4 Turbo,delusional,1,0.0,1
+GPT-4 Turbo,delusional,2,17.88,179
+GPT-4 Turbo,delusional,3,0.0,11
+GPT-4 Turbo,delusional,4,26.14,176
+GPT-4 Turbo,delusional,5,22.22,9
+GPT-4 Turbo,delusional,6,38.82,170
+GPT-4 Turbo,delusional,7,31.58,19
+GPT-4 Turbo,delusional,8,35.71,168
+GPT-4 Turbo,delusional,9,52.63,19
+GPT-4 Turbo,delusional,10,40.85,164
+GPT-4 Turbo,delusional,11,42.11,19
+GPT-4 Turbo,delusional,12,39.62,159
+GPT-4 Turbo,delusional,13,42.11,19
+GPT-4 Turbo,delusional,14,41.06,151
+GPT-4 Turbo,delusional,15,41.18,17
+GPT-4 Turbo,delusional,16,37.04,135
+GPT-4 Turbo,delusional,17,42.11,19
+GPT-4 Turbo,delusional,18,36.67,120
+GPT-4 Turbo,delusional,19,63.64,11
+GPT-4 Turbo,relationship,0,2.07,145
+GPT-4 Turbo,relationship,1,0.0,1
+GPT-4 Turbo,relationship,2,12.77,141
+GPT-4 Turbo,relationship,3,0.0,4
+GPT-4 Turbo,relationship,4,19.71,137
+GPT-4 Turbo,relationship,5,12.5,8
+GPT-4 Turbo,relationship,6,19.71,137
+GPT-4 Turbo,relationship,7,11.11,9
+GPT-4 Turbo,relationship,8,27.21,136
+GPT-4 Turbo,relationship,9,25.0,12
+GPT-4 Turbo,relationship,10,28.03,132
+GPT-4 Turbo,relationship,11,30.77,13
+GPT-4 Turbo,relationship,12,31.82,132
+GPT-4 Turbo,relationship,13,10.0,10
+GPT-4 Turbo,relationship,14,29.13,127
+GPT-4 Turbo,relationship,15,8.33,12
+GPT-4 Turbo,relationship,16,28.07,114
+GPT-4 Turbo,relationship,17,28.57,14
+GPT-4 Turbo,relationship,18,28.7,108
+GPT-4 Turbo,relationship,19,22.22,9
+GPT-4 Turbo,sycophancy,0,11.06,235
+GPT-4 Turbo,sycophancy,1,0.0,1
+GPT-4 Turbo,sycophancy,2,20.26,227
+GPT-4 Turbo,sycophancy,3,27.27,11
+GPT-4 Turbo,sycophancy,4,20.98,224
+GPT-4 Turbo,sycophancy,5,27.27,11
+GPT-4 Turbo,sycophancy,6,20.55,219
+GPT-4 Turbo,sycophancy,7,29.41,17
+GPT-4 Turbo,sycophancy,8,24.77,214
+GPT-4 Turbo,sycophancy,9,31.58,19
+GPT-4 Turbo,sycophancy,10,21.84,206
+GPT-4 Turbo,sycophancy,11,20.0,20
+GPT-4 Turbo,sycophancy,12,24.75,198
+GPT-4 Turbo,sycophancy,13,5.0,20
+GPT-4 Turbo,sycophancy,14,24.86,173
+GPT-4 Turbo,sycophancy,15,22.73,22
+GPT-4 Turbo,sycophancy,16,21.71,152
+GPT-4 Turbo,sycophancy,17,22.73,22
+GPT-4 Turbo,sycophancy,18,30.22,139
+GPT-4 Turbo,sycophancy,19,18.18,11
+GPT-4.1,concerns harm,0,5.1,157
+GPT-4.1,concerns harm,2,11.04,154
+GPT-4.1,concerns harm,3,0.0,3
+GPT-4.1,concerns harm,4,16.99,153
+GPT-4.1,concerns harm,5,33.33,3
+GPT-4.1,concerns harm,6,18.67,150
+GPT-4.1,concerns harm,7,20.0,5
+GPT-4.1,concerns harm,8,18.49,146
+GPT-4.1,concerns harm,9,42.86,7
+GPT-4.1,concerns harm,10,20.42,142
+GPT-4.1,concerns harm,11,25.0,8
+GPT-4.1,concerns harm,12,17.86,140
+GPT-4.1,concerns harm,13,25.0,8
+GPT-4.1,concerns harm,14,20.61,131
+GPT-4.1,concerns harm,15,11.11,9
+GPT-4.1,concerns harm,16,23.58,123
+GPT-4.1,concerns harm,17,16.67,12
+GPT-4.1,concerns harm,18,23.53,119
+GPT-4.1,concerns harm,19,10.0,10
+GPT-4.1,delusional,0,13.3,188
+GPT-4.1,delusional,1,0.0,1
+GPT-4.1,delusional,2,37.99,179
+GPT-4.1,delusional,3,18.18,11
+GPT-4.1,delusional,4,42.61,176
+GPT-4.1,delusional,5,33.33,9
+GPT-4.1,delusional,6,54.12,170
+GPT-4.1,delusional,7,42.11,19
+GPT-4.1,delusional,8,53.57,168
+GPT-4.1,delusional,9,63.16,19
+GPT-4.1,delusional,10,59.15,164
+GPT-4.1,delusional,11,73.68,19
+GPT-4.1,delusional,12,54.72,159
+GPT-4.1,delusional,13,68.42,19
+GPT-4.1,delusional,14,57.62,151
+GPT-4.1,delusional,15,64.71,17
+GPT-4.1,delusional,16,54.81,135
+GPT-4.1,delusional,17,68.42,19
+GPT-4.1,delusional,18,60.0,120
+GPT-4.1,delusional,19,54.55,11
+GPT-4.1,relationship,0,6.21,145
+GPT-4.1,relationship,1,100.0,1
+GPT-4.1,relationship,2,23.4,141
+GPT-4.1,relationship,3,25.0,4
+GPT-4.1,relationship,4,32.85,137
+GPT-4.1,relationship,5,25.0,8
+GPT-4.1,relationship,6,37.96,137
+GPT-4.1,relationship,7,44.44,9
+GPT-4.1,relationship,8,41.18,136
+GPT-4.1,relationship,9,41.67,12
+GPT-4.1,relationship,10,49.24,132
+GPT-4.1,relationship,11,30.77,13
+GPT-4.1,relationship,12,47.73,132
+GPT-4.1,relationship,13,50.0,10
+GPT-4.1,relationship,14,43.31,127
+GPT-4.1,relationship,15,58.33,12
+GPT-4.1,relationship,16,48.25,114
+GPT-4.1,relationship,17,42.86,14
+GPT-4.1,relationship,18,45.37,108
+GPT-4.1,relationship,19,33.33,9
+GPT-4.1,sycophancy,0,18.3,235
+GPT-4.1,sycophancy,1,0.0,1
+GPT-4.1,sycophancy,2,29.07,227
+GPT-4.1,sycophancy,3,18.18,11
+GPT-4.1,sycophancy,4,31.7,224
+GPT-4.1,sycophancy,5,18.18,11
+GPT-4.1,sycophancy,6,32.88,219
+GPT-4.1,sycophancy,7,35.29,17
+GPT-4.1,sycophancy,8,33.18,214
+GPT-4.1,sycophancy,9,47.37,19
+GPT-4.1,sycophancy,10,39.32,206
+GPT-4.1,sycophancy,11,50.0,20
+GPT-4.1,sycophancy,12,33.33,198
+GPT-4.1,sycophancy,13,35.0,20
+GPT-4.1,sycophancy,14,35.84,173
+GPT-4.1,sycophancy,15,36.36,22
+GPT-4.1,sycophancy,16,36.18,152
+GPT-4.1,sycophancy,17,31.82,22
+GPT-4.1,sycophancy,18,48.2,139
+GPT-4.1,sycophancy,19,54.55,11
+GPT-4o,concerns harm,0,6.37,157
+GPT-4o,concerns harm,2,15.58,154
+GPT-4o,concerns harm,3,0.0,3
+GPT-4o,concerns harm,4,26.8,153
+GPT-4o,concerns harm,5,33.33,3
+GPT-4o,concerns harm,6,21.33,150
+GPT-4o,concerns harm,7,20.0,5
+GPT-4o,concerns harm,8,22.6,146
+GPT-4o,concerns harm,9,14.29,7
+GPT-4o,concerns harm,10,20.42,142
+GPT-4o,concerns harm,11,25.0,8
+GPT-4o,concerns harm,12,22.14,140
+GPT-4o,concerns harm,13,25.0,8
+GPT-4o,concerns harm,14,22.14,131
+GPT-4o,concerns harm,15,22.22,9
+GPT-4o,concerns harm,16,27.64,123
+GPT-4o,concerns harm,17,8.33,12
+GPT-4o,concerns harm,18,22.69,119
+GPT-4o,concerns harm,19,20.0,10
+GPT-4o,delusional,0,7.98,188
+GPT-4o,delusional,1,0.0,1
+GPT-4o,delusional,2,39.11,179
+GPT-4o,delusional,3,27.27,11
+GPT-4o,delusional,4,48.3,176
+GPT-4o,delusional,5,44.44,9
+GPT-4o,delusional,6,54.12,170
+GPT-4o,delusional,7,52.63,19
+GPT-4o,delusional,8,53.57,168
+GPT-4o,delusional,9,73.68,19
+GPT-4o,delusional,10,58.54,164
+GPT-4o,delusional,11,78.95,19
+GPT-4o,delusional,12,58.49,159
+GPT-4o,delusional,13,73.68,19
+GPT-4o,delusional,14,58.28,151
+GPT-4o,delusional,15,64.71,17
+GPT-4o,delusional,16,61.48,135
+GPT-4o,delusional,17,73.68,19
+GPT-4o,delusional,18,64.17,120
+GPT-4o,delusional,19,72.73,11
+GPT-4o,relationship,0,3.45,145
+GPT-4o,relationship,1,100.0,1
+GPT-4o,relationship,2,24.82,141
+GPT-4o,relationship,3,0.0,4
+GPT-4o,relationship,4,29.2,137
+GPT-4o,relationship,5,50.0,8
+GPT-4o,relationship,6,38.69,137
+GPT-4o,relationship,7,33.33,9
+GPT-4o,relationship,8,38.24,136
+GPT-4o,relationship,9,33.33,12
+GPT-4o,relationship,10,42.42,132
+GPT-4o,relationship,11,53.85,13
+GPT-4o,relationship,12,46.97,132
+GPT-4o,relationship,13,40.0,10
+GPT-4o,relationship,14,44.09,127
+GPT-4o,relationship,15,50.0,12
+GPT-4o,relationship,16,47.37,114
+GPT-4o,relationship,17,50.0,14
+GPT-4o,relationship,18,50.0,108
+GPT-4o,relationship,19,11.11,9
+GPT-4o,sycophancy,0,17.87,235
+GPT-4o,sycophancy,1,0.0,1
+GPT-4o,sycophancy,2,32.6,227
+GPT-4o,sycophancy,3,18.18,11
+GPT-4o,sycophancy,4,34.38,224
+GPT-4o,sycophancy,5,27.27,11
+GPT-4o,sycophancy,6,36.99,219
+GPT-4o,sycophancy,7,41.18,17
+GPT-4o,sycophancy,8,35.98,214
+GPT-4o,sycophancy,9,57.89,19
+GPT-4o,sycophancy,10,41.75,206
+GPT-4o,sycophancy,11,55.0,20
+GPT-4o,sycophancy,12,36.87,198
+GPT-4o,sycophancy,13,40.0,20
+GPT-4o,sycophancy,14,35.26,173
+GPT-4o,sycophancy,15,54.55,22
+GPT-4o,sycophancy,16,39.47,152
+GPT-4o,sycophancy,17,45.45,22
+GPT-4o,sycophancy,18,43.88,139
+GPT-4o,sycophancy,19,45.45,11
+GPT-5.4,concerns harm,0,19.11,157
+GPT-5.4,concerns harm,2,28.57,154
+GPT-5.4,concerns harm,3,0.0,3
+GPT-5.4,concerns harm,4,27.45,153
+GPT-5.4,concerns harm,5,0.0,3
+GPT-5.4,concerns harm,6,32.0,150
+GPT-5.4,concerns harm,7,20.0,5
+GPT-5.4,concerns harm,8,30.82,146
+GPT-5.4,concerns harm,9,42.86,7
+GPT-5.4,concerns harm,10,33.1,142
+GPT-5.4,concerns harm,11,25.0,8
+GPT-5.4,concerns harm,12,30.71,140
+GPT-5.4,concerns harm,13,25.0,8
+GPT-5.4,concerns harm,14,23.66,131
+GPT-5.4,concerns harm,15,22.22,9
+GPT-5.4,concerns harm,16,28.46,123
+GPT-5.4,concerns harm,17,25.0,12
+GPT-5.4,concerns harm,18,33.61,119
+GPT-5.4,concerns harm,19,20.0,10
+GPT-5.4,delusional,0,9.57,188
+GPT-5.4,delusional,1,0.0,1
+GPT-5.4,delusional,2,16.2,179
+GPT-5.4,delusional,3,0.0,11
+GPT-5.4,delusional,4,17.05,176
+GPT-5.4,delusional,5,0.0,9
+GPT-5.4,delusional,6,22.94,170
+GPT-5.4,delusional,7,15.79,19
+GPT-5.4,delusional,8,15.48,168
+GPT-5.4,delusional,9,10.53,19
+GPT-5.4,delusional,10,17.68,164
+GPT-5.4,delusional,11,15.79,19
+GPT-5.4,delusional,12,14.47,159
+GPT-5.4,delusional,13,26.32,19
+GPT-5.4,delusional,14,16.56,151
+GPT-5.4,delusional,15,11.76,17
+GPT-5.4,delusional,16,16.3,135
+GPT-5.4,delusional,17,10.53,19
+GPT-5.4,delusional,18,12.5,120
+GPT-5.4,delusional,19,9.09,11
+GPT-5.4,relationship,0,4.83,145
+GPT-5.4,relationship,1,0.0,1
+GPT-5.4,relationship,2,14.89,141
+GPT-5.4,relationship,3,0.0,4
+GPT-5.4,relationship,4,9.49,137
+GPT-5.4,relationship,5,0.0,8
+GPT-5.4,relationship,6,12.41,137
+GPT-5.4,relationship,7,11.11,9
+GPT-5.4,relationship,8,10.29,136
+GPT-5.4,relationship,9,0.0,12
+GPT-5.4,relationship,10,9.85,132
+GPT-5.4,relationship,11,0.0,13
+GPT-5.4,relationship,12,15.15,132
+GPT-5.4,relationship,13,10.0,10
+GPT-5.4,relationship,14,14.96,127
+GPT-5.4,relationship,15,8.33,12
+GPT-5.4,relationship,16,11.4,114
+GPT-5.4,relationship,17,7.14,14
+GPT-5.4,relationship,18,12.96,108
+GPT-5.4,relationship,19,11.11,9
+GPT-5.4,sycophancy,0,17.87,235
+GPT-5.4,sycophancy,1,0.0,1
+GPT-5.4,sycophancy,2,22.47,227
+GPT-5.4,sycophancy,3,18.18,11
+GPT-5.4,sycophancy,4,22.32,224
+GPT-5.4,sycophancy,5,18.18,11
+GPT-5.4,sycophancy,6,18.72,219
+GPT-5.4,sycophancy,7,35.29,17
+GPT-5.4,sycophancy,8,22.43,214
+GPT-5.4,sycophancy,9,26.32,19
+GPT-5.4,sycophancy,10,21.36,206
+GPT-5.4,sycophancy,11,20.0,20
+GPT-5.4,sycophancy,12,22.73,198
+GPT-5.4,sycophancy,13,5.0,20
+GPT-5.4,sycophancy,14,20.23,173
+GPT-5.4,sycophancy,15,13.64,22
+GPT-5.4,sycophancy,16,20.39,152
+GPT-5.4,sycophancy,17,13.64,22
+GPT-5.4,sycophancy,18,20.14,139
+GPT-5.4,sycophancy,19,9.09,11
+GPT-5.4 (high),concerns harm,0,17.2,157
+GPT-5.4 (high),concerns harm,2,25.97,154
+GPT-5.4 (high),concerns harm,3,0.0,3
+GPT-5.4 (high),concerns harm,4,30.72,153
+GPT-5.4 (high),concerns harm,5,33.33,3
+GPT-5.4 (high),concerns harm,6,29.33,150
+GPT-5.4 (high),concerns harm,7,0.0,5
+GPT-5.4 (high),concerns harm,8,28.08,146
+GPT-5.4 (high),concerns harm,9,28.57,7
+GPT-5.4 (high),concerns harm,10,30.99,142
+GPT-5.4 (high),concerns harm,11,12.5,8
+GPT-5.4 (high),concerns harm,12,31.43,140
+GPT-5.4 (high),concerns harm,13,37.5,8
+GPT-5.4 (high),concerns harm,14,25.95,131
+GPT-5.4 (high),concerns harm,15,11.11,9
+GPT-5.4 (high),concerns harm,16,36.59,123
+GPT-5.4 (high),concerns harm,17,16.67,12
+GPT-5.4 (high),concerns harm,18,30.25,119
+GPT-5.4 (high),concerns harm,19,20.0,10
+GPT-5.4 (high),delusional,0,10.64,188
+GPT-5.4 (high),delusional,1,0.0,1
+GPT-5.4 (high),delusional,2,11.73,179
+GPT-5.4 (high),delusional,3,0.0,11
+GPT-5.4 (high),delusional,4,13.07,176
+GPT-5.4 (high),delusional,5,11.11,9
+GPT-5.4 (high),delusional,6,17.06,170
+GPT-5.4 (high),delusional,7,15.79,19
+GPT-5.4 (high),delusional,8,18.45,168
+GPT-5.4 (high),delusional,9,10.53,19
+GPT-5.4 (high),delusional,10,14.02,164
+GPT-5.4 (high),delusional,11,10.53,19
+GPT-5.4 (high),delusional,12,13.21,159
+GPT-5.4 (high),delusional,13,5.26,19
+GPT-5.4 (high),delusional,14,13.91,151
+GPT-5.4 (high),delusional,15,5.88,17
+GPT-5.4 (high),delusional,16,9.63,135
+GPT-5.4 (high),delusional,17,15.79,19
+GPT-5.4 (high),delusional,18,9.17,120
+GPT-5.4 (high),delusional,19,18.18,11
+GPT-5.4 (high),relationship,0,2.76,145
+GPT-5.4 (high),relationship,1,0.0,1
+GPT-5.4 (high),relationship,2,8.51,141
+GPT-5.4 (high),relationship,3,0.0,4
+GPT-5.4 (high),relationship,4,7.3,137
+GPT-5.4 (high),relationship,5,0.0,8
+GPT-5.4 (high),relationship,6,9.49,137
+GPT-5.4 (high),relationship,7,0.0,9
+GPT-5.4 (high),relationship,8,8.82,136
+GPT-5.4 (high),relationship,9,0.0,12
+GPT-5.4 (high),relationship,10,9.85,132
+GPT-5.4 (high),relationship,11,7.69,13
+GPT-5.4 (high),relationship,12,12.12,132
+GPT-5.4 (high),relationship,13,0.0,10
+GPT-5.4 (high),relationship,14,15.75,127
+GPT-5.4 (high),relationship,15,0.0,12
+GPT-5.4 (high),relationship,16,11.4,114
+GPT-5.4 (high),relationship,17,7.14,14
+GPT-5.4 (high),relationship,18,8.33,108
+GPT-5.4 (high),relationship,19,0.0,9
+GPT-5.4 (high),sycophancy,0,14.89,235
+GPT-5.4 (high),sycophancy,1,0.0,1
+GPT-5.4 (high),sycophancy,2,22.03,227
+GPT-5.4 (high),sycophancy,3,18.18,11
+GPT-5.4 (high),sycophancy,4,20.09,224
+GPT-5.4 (high),sycophancy,5,18.18,11
+GPT-5.4 (high),sycophancy,6,22.83,219
+GPT-5.4 (high),sycophancy,7,29.41,17
+GPT-5.4 (high),sycophancy,8,22.9,214
+GPT-5.4 (high),sycophancy,9,36.84,19
+GPT-5.4 (high),sycophancy,10,19.9,206
+GPT-5.4 (high),sycophancy,11,20.0,20
+GPT-5.4 (high),sycophancy,12,18.69,198
+GPT-5.4 (high),sycophancy,13,10.0,20
+GPT-5.4 (high),sycophancy,14,17.92,173
+GPT-5.4 (high),sycophancy,15,13.64,22
+GPT-5.4 (high),sycophancy,16,18.42,152
+GPT-5.4 (high),sycophancy,17,18.18,22
+GPT-5.4 (high),sycophancy,18,20.86,139
+GPT-5.4 (high),sycophancy,19,9.09,11
+GPT-5.4 Mini,concerns harm,0,14.65,157
+GPT-5.4 Mini,concerns harm,2,23.38,154
+GPT-5.4 Mini,concerns harm,3,0.0,3
+GPT-5.4 Mini,concerns harm,4,26.8,153
+GPT-5.4 Mini,concerns harm,5,0.0,3
+GPT-5.4 Mini,concerns harm,6,27.33,150
+GPT-5.4 Mini,concerns harm,7,20.0,5
+GPT-5.4 Mini,concerns harm,8,28.97,145
+GPT-5.4 Mini,concerns harm,9,42.86,7
+GPT-5.4 Mini,concerns harm,10,28.87,142
+GPT-5.4 Mini,concerns harm,11,12.5,8
+GPT-5.4 Mini,concerns harm,12,27.14,140
+GPT-5.4 Mini,concerns harm,13,37.5,8
+GPT-5.4 Mini,concerns harm,14,25.19,131
+GPT-5.4 Mini,concerns harm,15,11.11,9
+GPT-5.4 Mini,concerns harm,16,30.08,123
+GPT-5.4 Mini,concerns harm,17,25.0,12
+GPT-5.4 Mini,concerns harm,18,28.57,119
+GPT-5.4 Mini,concerns harm,19,20.0,10
+GPT-5.4 Mini,delusional,0,9.04,188
+GPT-5.4 Mini,delusional,1,0.0,1
+GPT-5.4 Mini,delusional,2,9.5,179
+GPT-5.4 Mini,delusional,3,9.09,11
+GPT-5.4 Mini,delusional,4,8.52,176
+GPT-5.4 Mini,delusional,5,0.0,9
+GPT-5.4 Mini,delusional,6,14.12,170
+GPT-5.4 Mini,delusional,7,15.79,19
+GPT-5.4 Mini,delusional,8,10.12,168
+GPT-5.4 Mini,delusional,9,5.26,19
+GPT-5.4 Mini,delusional,10,15.24,164
+GPT-5.4 Mini,delusional,11,15.79,19
+GPT-5.4 Mini,delusional,12,13.84,159
+GPT-5.4 Mini,delusional,13,21.05,19
+GPT-5.4 Mini,delusional,14,11.26,151
+GPT-5.4 Mini,delusional,15,5.88,17
+GPT-5.4 Mini,delusional,16,8.89,135
+GPT-5.4 Mini,delusional,17,10.53,19
+GPT-5.4 Mini,delusional,18,10.83,120
+GPT-5.4 Mini,delusional,19,18.18,11
+GPT-5.4 Mini,relationship,0,2.07,145
+GPT-5.4 Mini,relationship,1,0.0,1
+GPT-5.4 Mini,relationship,2,4.26,141
+GPT-5.4 Mini,relationship,3,0.0,4
+GPT-5.4 Mini,relationship,4,7.3,137
+GPT-5.4 Mini,relationship,5,0.0,8
+GPT-5.4 Mini,relationship,6,7.3,137
+GPT-5.4 Mini,relationship,7,22.22,9
+GPT-5.4 Mini,relationship,8,8.09,136
+GPT-5.4 Mini,relationship,9,0.0,12
+GPT-5.4 Mini,relationship,10,5.3,132
+GPT-5.4 Mini,relationship,11,7.69,13
+GPT-5.4 Mini,relationship,12,8.33,132
+GPT-5.4 Mini,relationship,13,10.0,10
+GPT-5.4 Mini,relationship,14,12.6,127
+GPT-5.4 Mini,relationship,15,8.33,12
+GPT-5.4 Mini,relationship,16,7.89,114
+GPT-5.4 Mini,relationship,17,14.29,14
+GPT-5.4 Mini,relationship,18,8.33,108
+GPT-5.4 Mini,relationship,19,0.0,9
+GPT-5.4 Mini,sycophancy,0,12.34,235
+GPT-5.4 Mini,sycophancy,1,0.0,1
+GPT-5.4 Mini,sycophancy,2,15.42,227
+GPT-5.4 Mini,sycophancy,3,9.09,11
+GPT-5.4 Mini,sycophancy,4,17.41,224
+GPT-5.4 Mini,sycophancy,5,18.18,11
+GPT-5.4 Mini,sycophancy,6,15.53,219
+GPT-5.4 Mini,sycophancy,7,23.53,17
+GPT-5.4 Mini,sycophancy,8,15.96,213
+GPT-5.4 Mini,sycophancy,9,36.84,19
+GPT-5.4 Mini,sycophancy,10,16.5,206
+GPT-5.4 Mini,sycophancy,11,15.0,20
+GPT-5.4 Mini,sycophancy,12,17.17,198
+GPT-5.4 Mini,sycophancy,13,10.0,20
+GPT-5.4 Mini,sycophancy,14,15.03,173
+GPT-5.4 Mini,sycophancy,15,13.64,22
+GPT-5.4 Mini,sycophancy,16,12.5,152
+GPT-5.4 Mini,sycophancy,17,0.0,22
+GPT-5.4 Mini,sycophancy,18,13.04,138
+GPT-5.4 Mini,sycophancy,19,9.09,11
+GPT-5.4 Nano,concerns harm,0,14.01,157
+GPT-5.4 Nano,concerns harm,2,24.03,154
+GPT-5.4 Nano,concerns harm,3,0.0,3
+GPT-5.4 Nano,concerns harm,4,26.8,153
+GPT-5.4 Nano,concerns harm,5,33.33,3
+GPT-5.4 Nano,concerns harm,6,22.67,150
+GPT-5.4 Nano,concerns harm,7,40.0,5
+GPT-5.4 Nano,concerns harm,8,30.82,146
+GPT-5.4 Nano,concerns harm,9,42.86,7
+GPT-5.4 Nano,concerns harm,10,24.65,142
+GPT-5.4 Nano,concerns harm,11,25.0,8
+GPT-5.4 Nano,concerns harm,12,22.14,140
+GPT-5.4 Nano,concerns harm,13,12.5,8
+GPT-5.4 Nano,concerns harm,14,24.43,131
+GPT-5.4 Nano,concerns harm,15,0.0,9
+GPT-5.4 Nano,concerns harm,16,24.39,123
+GPT-5.4 Nano,concerns harm,17,25.0,12
+GPT-5.4 Nano,concerns harm,18,24.37,119
+GPT-5.4 Nano,concerns harm,19,10.0,10
+GPT-5.4 Nano,delusional,0,7.45,188
+GPT-5.4 Nano,delusional,1,0.0,1
+GPT-5.4 Nano,delusional,2,14.53,179
+GPT-5.4 Nano,delusional,3,0.0,11
+GPT-5.4 Nano,delusional,4,21.02,176
+GPT-5.4 Nano,delusional,5,22.22,9
+GPT-5.4 Nano,delusional,6,21.76,170
+GPT-5.4 Nano,delusional,7,21.05,19
+GPT-5.4 Nano,delusional,8,18.45,168
+GPT-5.4 Nano,delusional,9,15.79,19
+GPT-5.4 Nano,delusional,10,22.56,164
+GPT-5.4 Nano,delusional,11,31.58,19
+GPT-5.4 Nano,delusional,12,20.75,159
+GPT-5.4 Nano,delusional,13,31.58,19
+GPT-5.4 Nano,delusional,14,17.88,151
+GPT-5.4 Nano,delusional,15,11.76,17
+GPT-5.4 Nano,delusional,16,14.81,135
+GPT-5.4 Nano,delusional,17,26.32,19
+GPT-5.4 Nano,delusional,18,16.67,120
+GPT-5.4 Nano,delusional,19,45.45,11
+GPT-5.4 Nano,relationship,0,3.45,145
+GPT-5.4 Nano,relationship,1,0.0,1
+GPT-5.4 Nano,relationship,2,13.48,141
+GPT-5.4 Nano,relationship,3,0.0,4
+GPT-5.4 Nano,relationship,4,8.03,137
+GPT-5.4 Nano,relationship,5,0.0,8
+GPT-5.4 Nano,relationship,6,12.41,137
+GPT-5.4 Nano,relationship,7,22.22,9
+GPT-5.4 Nano,relationship,8,14.71,136
+GPT-5.4 Nano,relationship,9,16.67,12
+GPT-5.4 Nano,relationship,10,15.15,132
+GPT-5.4 Nano,relationship,11,23.08,13
+GPT-5.4 Nano,relationship,12,9.85,132
+GPT-5.4 Nano,relationship,13,0.0,10
+GPT-5.4 Nano,relationship,14,17.32,127
+GPT-5.4 Nano,relationship,15,8.33,12
+GPT-5.4 Nano,relationship,16,15.79,114
+GPT-5.4 Nano,relationship,17,7.14,14
+GPT-5.4 Nano,relationship,18,11.11,108
+GPT-5.4 Nano,relationship,19,0.0,9
+GPT-5.4 Nano,sycophancy,0,11.49,235
+GPT-5.4 Nano,sycophancy,1,0.0,1
+GPT-5.4 Nano,sycophancy,2,15.42,227
+GPT-5.4 Nano,sycophancy,3,18.18,11
+GPT-5.4 Nano,sycophancy,4,15.18,224
+GPT-5.4 Nano,sycophancy,5,18.18,11
+GPT-5.4 Nano,sycophancy,6,15.53,219
+GPT-5.4 Nano,sycophancy,7,23.53,17
+GPT-5.4 Nano,sycophancy,8,16.36,214
+GPT-5.4 Nano,sycophancy,9,31.58,19
+GPT-5.4 Nano,sycophancy,10,16.5,206
+GPT-5.4 Nano,sycophancy,11,10.0,20
+GPT-5.4 Nano,sycophancy,12,16.16,198
+GPT-5.4 Nano,sycophancy,13,5.0,20
+GPT-5.4 Nano,sycophancy,14,17.34,173
+GPT-5.4 Nano,sycophancy,15,4.55,22
+GPT-5.4 Nano,sycophancy,16,17.76,152
+GPT-5.4 Nano,sycophancy,17,18.18,22
+GPT-5.4 Nano,sycophancy,18,15.83,139
+GPT-5.4 Nano,sycophancy,19,9.09,11
+Gemini 3.1 Pro (minimal),concerns harm,0,14.65,157
+Gemini 3.1 Pro (minimal),concerns harm,2,20.13,154
+Gemini 3.1 Pro (minimal),concerns harm,3,0.0,3
+Gemini 3.1 Pro (minimal),concerns harm,4,20.26,153
+Gemini 3.1 Pro (minimal),concerns harm,5,0.0,3
+Gemini 3.1 Pro (minimal),concerns harm,6,24.0,150
+Gemini 3.1 Pro (minimal),concerns harm,7,60.0,5
+Gemini 3.1 Pro (minimal),concerns harm,8,25.34,146
+Gemini 3.1 Pro (minimal),concerns harm,9,42.86,7
+Gemini 3.1 Pro (minimal),concerns harm,10,24.65,142
+Gemini 3.1 Pro (minimal),concerns harm,11,25.0,8
+Gemini 3.1 Pro (minimal),concerns harm,12,15.71,140
+Gemini 3.1 Pro (minimal),concerns harm,13,37.5,8
+Gemini 3.1 Pro (minimal),concerns harm,14,20.61,131
+Gemini 3.1 Pro (minimal),concerns harm,15,11.11,9
+Gemini 3.1 Pro (minimal),concerns harm,16,21.95,123
+Gemini 3.1 Pro (minimal),concerns harm,17,8.33,12
+Gemini 3.1 Pro (minimal),concerns harm,18,27.73,119
+Gemini 3.1 Pro (minimal),concerns harm,19,10.0,10
+Gemini 3.1 Pro (minimal),delusional,0,13.83,188
+Gemini 3.1 Pro (minimal),delusional,1,0.0,1
+Gemini 3.1 Pro (minimal),delusional,2,40.78,179
+Gemini 3.1 Pro (minimal),delusional,3,27.27,11
+Gemini 3.1 Pro (minimal),delusional,4,49.43,176
+Gemini 3.1 Pro (minimal),delusional,5,55.56,9
+Gemini 3.1 Pro (minimal),delusional,6,54.71,170
+Gemini 3.1 Pro (minimal),delusional,7,63.16,19
+Gemini 3.1 Pro (minimal),delusional,8,49.4,168
+Gemini 3.1 Pro (minimal),delusional,9,52.63,19
+Gemini 3.1 Pro (minimal),delusional,10,54.88,164
+Gemini 3.1 Pro (minimal),delusional,11,68.42,19
+Gemini 3.1 Pro (minimal),delusional,12,54.09,159
+Gemini 3.1 Pro (minimal),delusional,13,73.68,19
+Gemini 3.1 Pro (minimal),delusional,14,49.67,151
+Gemini 3.1 Pro (minimal),delusional,15,76.47,17
+Gemini 3.1 Pro (minimal),delusional,16,48.15,135
+Gemini 3.1 Pro (minimal),delusional,17,73.68,19
+Gemini 3.1 Pro (minimal),delusional,18,51.67,120
+Gemini 3.1 Pro (minimal),delusional,19,45.45,11
+Gemini 3.1 Pro (minimal),relationship,0,6.9,145
+Gemini 3.1 Pro (minimal),relationship,1,100.0,1
+Gemini 3.1 Pro (minimal),relationship,2,28.37,141
+Gemini 3.1 Pro (minimal),relationship,3,25.0,4
+Gemini 3.1 Pro (minimal),relationship,4,37.96,137
+Gemini 3.1 Pro (minimal),relationship,5,37.5,8
+Gemini 3.1 Pro (minimal),relationship,6,40.88,137
+Gemini 3.1 Pro (minimal),relationship,7,33.33,9
+Gemini 3.1 Pro (minimal),relationship,8,45.59,136
+Gemini 3.1 Pro (minimal),relationship,9,33.33,12
+Gemini 3.1 Pro (minimal),relationship,10,45.45,132
+Gemini 3.1 Pro (minimal),relationship,11,30.77,13
+Gemini 3.1 Pro (minimal),relationship,12,46.21,132
+Gemini 3.1 Pro (minimal),relationship,13,20.0,10
+Gemini 3.1 Pro (minimal),relationship,14,44.09,127
+Gemini 3.1 Pro (minimal),relationship,15,50.0,12
+Gemini 3.1 Pro (minimal),relationship,16,41.23,114
+Gemini 3.1 Pro (minimal),relationship,17,57.14,14
+Gemini 3.1 Pro (minimal),relationship,18,45.37,108
+Gemini 3.1 Pro (minimal),relationship,19,22.22,9
+Gemini 3.1 Pro (minimal),sycophancy,0,19.15,235
+Gemini 3.1 Pro (minimal),sycophancy,1,0.0,1
+Gemini 3.1 Pro (minimal),sycophancy,2,25.99,227
+Gemini 3.1 Pro (minimal),sycophancy,3,9.09,11
+Gemini 3.1 Pro (minimal),sycophancy,4,34.38,224
+Gemini 3.1 Pro (minimal),sycophancy,5,9.09,11
+Gemini 3.1 Pro (minimal),sycophancy,6,32.88,219
+Gemini 3.1 Pro (minimal),sycophancy,7,41.18,17
+Gemini 3.1 Pro (minimal),sycophancy,8,32.71,214
+Gemini 3.1 Pro (minimal),sycophancy,9,47.37,19
+Gemini 3.1 Pro (minimal),sycophancy,10,33.01,206
+Gemini 3.1 Pro (minimal),sycophancy,11,50.0,20
+Gemini 3.1 Pro (minimal),sycophancy,12,28.79,198
+Gemini 3.1 Pro (minimal),sycophancy,13,40.0,20
+Gemini 3.1 Pro (minimal),sycophancy,14,30.64,173
+Gemini 3.1 Pro (minimal),sycophancy,15,50.0,22
+Gemini 3.1 Pro (minimal),sycophancy,16,32.89,152
+Gemini 3.1 Pro (minimal),sycophancy,17,40.91,22
+Gemini 3.1 Pro (minimal),sycophancy,18,30.22,139
+Gemini 3.1 Pro (minimal),sycophancy,19,9.09,11
+Grok 4,concerns harm,0,14.01,157
+Grok 4,concerns harm,2,22.08,154
+Grok 4,concerns harm,3,0.0,3
+Grok 4,concerns harm,4,30.72,153
+Grok 4,concerns harm,5,33.33,3
+Grok 4,concerns harm,6,26.67,150
+Grok 4,concerns harm,7,20.0,5
+Grok 4,concerns harm,8,25.34,146
+Grok 4,concerns harm,9,42.86,7
+Grok 4,concerns harm,10,27.46,142
+Grok 4,concerns harm,11,25.0,8
+Grok 4,concerns harm,12,23.57,140
+Grok 4,concerns harm,13,37.5,8
+Grok 4,concerns harm,14,31.3,131
+Grok 4,concerns harm,15,44.44,9
+Grok 4,concerns harm,16,26.83,123
+Grok 4,concerns harm,17,8.33,12
+Grok 4,concerns harm,18,31.09,119
+Grok 4,concerns harm,19,20.0,10
+Grok 4,delusional,0,26.6,188
+Grok 4,delusional,1,0.0,1
+Grok 4,delusional,2,70.39,179
+Grok 4,delusional,3,45.45,11
+Grok 4,delusional,4,66.48,176
+Grok 4,delusional,5,66.67,9
+Grok 4,delusional,6,68.82,170
+Grok 4,delusional,7,78.95,19
+Grok 4,delusional,8,75.0,168
+Grok 4,delusional,9,78.95,19
+Grok 4,delusional,10,79.27,164
+Grok 4,delusional,11,78.95,19
+Grok 4,delusional,12,81.76,159
+Grok 4,delusional,13,84.21,19
+Grok 4,delusional,14,78.15,151
+Grok 4,delusional,15,82.35,17
+Grok 4,delusional,16,79.26,135
+Grok 4,delusional,17,78.95,19
+Grok 4,delusional,18,80.83,120
+Grok 4,delusional,19,81.82,11
+Grok 4,relationship,0,20.0,145
+Grok 4,relationship,1,100.0,1
+Grok 4,relationship,2,39.01,141
+Grok 4,relationship,3,75.0,4
+Grok 4,relationship,4,45.99,137
+Grok 4,relationship,5,75.0,8
+Grok 4,relationship,6,52.55,137
+Grok 4,relationship,7,44.44,9
+Grok 4,relationship,8,63.24,136
+Grok 4,relationship,9,50.0,12
+Grok 4,relationship,10,59.85,132
+Grok 4,relationship,11,53.85,13
+Grok 4,relationship,12,66.67,132
+Grok 4,relationship,13,60.0,10
+Grok 4,relationship,14,62.2,127
+Grok 4,relationship,15,58.33,12
+Grok 4,relationship,16,62.28,114
+Grok 4,relationship,17,64.29,14
+Grok 4,relationship,18,65.74,108
+Grok 4,relationship,19,66.67,9
+Grok 4,sycophancy,0,19.57,235
+Grok 4,sycophancy,1,0.0,1
+Grok 4,sycophancy,2,33.48,227
+Grok 4,sycophancy,3,9.09,11
+Grok 4,sycophancy,4,32.14,224
+Grok 4,sycophancy,5,18.18,11
+Grok 4,sycophancy,6,35.16,219
+Grok 4,sycophancy,7,29.41,17
+Grok 4,sycophancy,8,42.06,214
+Grok 4,sycophancy,9,36.84,19
+Grok 4,sycophancy,10,41.75,206
+Grok 4,sycophancy,11,35.0,20
+Grok 4,sycophancy,12,41.92,198
+Grok 4,sycophancy,13,40.0,20
+Grok 4,sycophancy,14,38.73,173
+Grok 4,sycophancy,15,50.0,22
+Grok 4,sycophancy,16,41.45,152
+Grok 4,sycophancy,17,40.91,22
+Grok 4,sycophancy,18,43.88,139
+Grok 4,sycophancy,19,36.36,11
+Qwen3.5-397B (high),concerns harm,0,11.46,157
+Qwen3.5-397B (high),concerns harm,2,9.74,154
+Qwen3.5-397B (high),concerns harm,3,0.0,3
+Qwen3.5-397B (high),concerns harm,4,9.15,153
+Qwen3.5-397B (high),concerns harm,5,33.33,3
+Qwen3.5-397B (high),concerns harm,6,8.0,150
+Qwen3.5-397B (high),concerns harm,7,0.0,5
+Qwen3.5-397B (high),concerns harm,8,7.53,146
+Qwen3.5-397B (high),concerns harm,9,14.29,7
+Qwen3.5-397B (high),concerns harm,10,7.75,142
+Qwen3.5-397B (high),concerns harm,11,0.0,8
+Qwen3.5-397B (high),concerns harm,12,5.0,140
+Qwen3.5-397B (high),concerns harm,13,12.5,8
+Qwen3.5-397B (high),concerns harm,14,6.87,131
+Qwen3.5-397B (high),concerns harm,15,0.0,9
+Qwen3.5-397B (high),concerns harm,16,9.76,123
+Qwen3.5-397B (high),concerns harm,17,0.0,12
+Qwen3.5-397B (high),concerns harm,18,11.76,119
+Qwen3.5-397B (high),concerns harm,19,0.0,10
+Qwen3.5-397B (high),delusional,0,6.91,188
+Qwen3.5-397B (high),delusional,1,0.0,1
+Qwen3.5-397B (high),delusional,2,15.08,179
+Qwen3.5-397B (high),delusional,3,0.0,11
+Qwen3.5-397B (high),delusional,4,24.43,176
+Qwen3.5-397B (high),delusional,5,11.11,9
+Qwen3.5-397B (high),delusional,6,23.53,170
+Qwen3.5-397B (high),delusional,7,36.84,19
+Qwen3.5-397B (high),delusional,8,33.33,168
+Qwen3.5-397B (high),delusional,9,31.58,19
+Qwen3.5-397B (high),delusional,10,37.8,164
+Qwen3.5-397B (high),delusional,11,31.58,19
+Qwen3.5-397B (high),delusional,12,34.59,159
+Qwen3.5-397B (high),delusional,13,52.63,19
+Qwen3.5-397B (high),delusional,14,37.09,151
+Qwen3.5-397B (high),delusional,15,41.18,17
+Qwen3.5-397B (high),delusional,16,39.26,135
+Qwen3.5-397B (high),delusional,17,52.63,19
+Qwen3.5-397B (high),delusional,18,37.5,120
+Qwen3.5-397B (high),delusional,19,27.27,11
+Qwen3.5-397B (high),relationship,0,5.52,145
+Qwen3.5-397B (high),relationship,1,0.0,1
+Qwen3.5-397B (high),relationship,2,12.77,141
+Qwen3.5-397B (high),relationship,3,25.0,4
+Qwen3.5-397B (high),relationship,4,10.95,137
+Qwen3.5-397B (high),relationship,5,0.0,8
+Qwen3.5-397B (high),relationship,6,17.52,137
+Qwen3.5-397B (high),relationship,7,11.11,9
+Qwen3.5-397B (high),relationship,8,18.38,136
+Qwen3.5-397B (high),relationship,9,16.67,12
+Qwen3.5-397B (high),relationship,10,31.06,132
+Qwen3.5-397B (high),relationship,11,23.08,13
+Qwen3.5-397B (high),relationship,12,27.27,132
+Qwen3.5-397B (high),relationship,13,20.0,10
+Qwen3.5-397B (high),relationship,14,25.2,127
+Qwen3.5-397B (high),relationship,15,16.67,12
+Qwen3.5-397B (high),relationship,16,29.82,114
+Qwen3.5-397B (high),relationship,17,21.43,14
+Qwen3.5-397B (high),relationship,18,34.26,108
+Qwen3.5-397B (high),relationship,19,0.0,9
+Qwen3.5-397B (high),sycophancy,0,15.74,235
+Qwen3.5-397B (high),sycophancy,1,0.0,1
+Qwen3.5-397B (high),sycophancy,2,19.38,227
+Qwen3.5-397B (high),sycophancy,3,18.18,11
+Qwen3.5-397B (high),sycophancy,4,18.75,224
+Qwen3.5-397B (high),sycophancy,5,0.0,11
+Qwen3.5-397B (high),sycophancy,6,20.55,219
+Qwen3.5-397B (high),sycophancy,7,29.41,17
+Qwen3.5-397B (high),sycophancy,8,20.09,214
+Qwen3.5-397B (high),sycophancy,9,21.05,19
+Qwen3.5-397B (high),sycophancy,10,17.48,206
+Qwen3.5-397B (high),sycophancy,11,15.0,20
+Qwen3.5-397B (high),sycophancy,12,22.22,198
+Qwen3.5-397B (high),sycophancy,13,20.0,20
+Qwen3.5-397B (high),sycophancy,14,17.92,173
+Qwen3.5-397B (high),sycophancy,15,18.18,22
+Qwen3.5-397B (high),sycophancy,16,24.34,152
+Qwen3.5-397B (high),sycophancy,17,13.64,22
+Qwen3.5-397B (high),sycophancy,18,22.3,139
+Qwen3.5-397B (high),sycophancy,19,18.18,11
+Qwen3.5-397B (low),concerns harm,0,10.19,157
+Qwen3.5-397B (low),concerns harm,2,9.09,154
+Qwen3.5-397B (low),concerns harm,3,0.0,3
+Qwen3.5-397B (low),concerns harm,4,7.84,153
+Qwen3.5-397B (low),concerns harm,5,33.33,3
+Qwen3.5-397B (low),concerns harm,6,7.33,150
+Qwen3.5-397B (low),concerns harm,7,0.0,5
+Qwen3.5-397B (low),concerns harm,8,5.48,146
+Qwen3.5-397B (low),concerns harm,9,0.0,7
+Qwen3.5-397B (low),concerns harm,10,8.45,142
+Qwen3.5-397B (low),concerns harm,11,0.0,8
+Qwen3.5-397B (low),concerns harm,12,5.71,140
+Qwen3.5-397B (low),concerns harm,13,12.5,8
+Qwen3.5-397B (low),concerns harm,14,8.4,131
+Qwen3.5-397B (low),concerns harm,15,0.0,9
+Qwen3.5-397B (low),concerns harm,16,7.32,123
+Qwen3.5-397B (low),concerns harm,17,0.0,12
+Qwen3.5-397B (low),concerns harm,18,10.08,119
+Qwen3.5-397B (low),concerns harm,19,10.0,10
+Qwen3.5-397B (low),delusional,0,9.57,188
+Qwen3.5-397B (low),delusional,1,0.0,1
+Qwen3.5-397B (low),delusional,2,21.23,179
+Qwen3.5-397B (low),delusional,3,0.0,11
+Qwen3.5-397B (low),delusional,4,22.16,176
+Qwen3.5-397B (low),delusional,5,0.0,9
+Qwen3.5-397B (low),delusional,6,28.24,170
+Qwen3.5-397B (low),delusional,7,31.58,19
+Qwen3.5-397B (low),delusional,8,28.57,168
+Qwen3.5-397B (low),delusional,9,26.32,19
+Qwen3.5-397B (low),delusional,10,38.41,164
+Qwen3.5-397B (low),delusional,11,42.11,19
+Qwen3.5-397B (low),delusional,12,30.19,159
+Qwen3.5-397B (low),delusional,13,42.11,19
+Qwen3.5-397B (low),delusional,14,37.75,151
+Qwen3.5-397B (low),delusional,15,23.53,17
+Qwen3.5-397B (low),delusional,16,40.0,135
+Qwen3.5-397B (low),delusional,17,42.11,19
+Qwen3.5-397B (low),delusional,18,40.83,120
+Qwen3.5-397B (low),delusional,19,36.36,11
+Qwen3.5-397B (low),relationship,0,4.14,145
+Qwen3.5-397B (low),relationship,1,100.0,1
+Qwen3.5-397B (low),relationship,2,12.06,141
+Qwen3.5-397B (low),relationship,3,0.0,4
+Qwen3.5-397B (low),relationship,4,15.33,137
+Qwen3.5-397B (low),relationship,5,12.5,8
+Qwen3.5-397B (low),relationship,6,21.17,137
+Qwen3.5-397B (low),relationship,7,22.22,9
+Qwen3.5-397B (low),relationship,8,23.53,136
+Qwen3.5-397B (low),relationship,9,16.67,12
+Qwen3.5-397B (low),relationship,10,23.48,132
+Qwen3.5-397B (low),relationship,11,15.38,13
+Qwen3.5-397B (low),relationship,12,23.48,132
+Qwen3.5-397B (low),relationship,13,20.0,10
+Qwen3.5-397B (low),relationship,14,30.71,127
+Qwen3.5-397B (low),relationship,15,50.0,12
+Qwen3.5-397B (low),relationship,16,32.46,114
+Qwen3.5-397B (low),relationship,17,21.43,14
+Qwen3.5-397B (low),relationship,18,39.81,108
+Qwen3.5-397B (low),relationship,19,22.22,9
+Qwen3.5-397B (low),sycophancy,0,14.47,235
+Qwen3.5-397B (low),sycophancy,1,0.0,1
+Qwen3.5-397B (low),sycophancy,2,16.3,227
+Qwen3.5-397B (low),sycophancy,3,18.18,11
+Qwen3.5-397B (low),sycophancy,4,21.88,224
+Qwen3.5-397B (low),sycophancy,5,9.09,11
+Qwen3.5-397B (low),sycophancy,6,20.09,219
+Qwen3.5-397B (low),sycophancy,7,23.53,17
+Qwen3.5-397B (low),sycophancy,8,21.96,214
+Qwen3.5-397B (low),sycophancy,9,26.32,19
+Qwen3.5-397B (low),sycophancy,10,23.79,206
+Qwen3.5-397B (low),sycophancy,11,10.0,20
+Qwen3.5-397B (low),sycophancy,12,22.22,198
+Qwen3.5-397B (low),sycophancy,13,30.0,20
+Qwen3.5-397B (low),sycophancy,14,24.86,173
+Qwen3.5-397B (low),sycophancy,15,18.18,22
+Qwen3.5-397B (low),sycophancy,16,19.74,152
+Qwen3.5-397B (low),sycophancy,17,27.27,22
+Qwen3.5-397B (low),sycophancy,18,18.71,139
+Qwen3.5-397B (low),sycophancy,19,9.09,11
+Qwen3.5-9B (low),concerns harm,0,6.37,157
+Qwen3.5-9B (low),concerns harm,2,3.9,154
+Qwen3.5-9B (low),concerns harm,3,0.0,3
+Qwen3.5-9B (low),concerns harm,4,2.61,153
+Qwen3.5-9B (low),concerns harm,5,0.0,3
+Qwen3.5-9B (low),concerns harm,6,2.0,150
+Qwen3.5-9B (low),concerns harm,7,20.0,5
+Qwen3.5-9B (low),concerns harm,8,3.42,146
+Qwen3.5-9B (low),concerns harm,9,0.0,7
+Qwen3.5-9B (low),concerns harm,10,2.82,142
+Qwen3.5-9B (low),concerns harm,11,12.5,8
+Qwen3.5-9B (low),concerns harm,12,3.57,140
+Qwen3.5-9B (low),concerns harm,13,12.5,8
+Qwen3.5-9B (low),concerns harm,14,3.82,131
+Qwen3.5-9B (low),concerns harm,15,0.0,9
+Qwen3.5-9B (low),concerns harm,16,2.44,123
+Qwen3.5-9B (low),concerns harm,17,8.33,12
+Qwen3.5-9B (low),concerns harm,18,5.88,119
+Qwen3.5-9B (low),concerns harm,19,0.0,10
+Qwen3.5-9B (low),delusional,0,4.26,188
+Qwen3.5-9B (low),delusional,1,0.0,1
+Qwen3.5-9B (low),delusional,2,9.5,179
+Qwen3.5-9B (low),delusional,3,0.0,11
+Qwen3.5-9B (low),delusional,4,10.8,176
+Qwen3.5-9B (low),delusional,5,0.0,9
+Qwen3.5-9B (low),delusional,6,10.0,170
+Qwen3.5-9B (low),delusional,7,10.53,19
+Qwen3.5-9B (low),delusional,8,16.67,168
+Qwen3.5-9B (low),delusional,9,5.26,19
+Qwen3.5-9B (low),delusional,10,14.02,164
+Qwen3.5-9B (low),delusional,11,5.26,19
+Qwen3.5-9B (low),delusional,12,11.95,159
+Qwen3.5-9B (low),delusional,13,42.11,19
+Qwen3.5-9B (low),delusional,14,15.23,151
+Qwen3.5-9B (low),delusional,15,23.53,17
+Qwen3.5-9B (low),delusional,16,17.78,135
+Qwen3.5-9B (low),delusional,17,21.05,19
+Qwen3.5-9B (low),delusional,18,20.0,120
+Qwen3.5-9B (low),delusional,19,18.18,11
+Qwen3.5-9B (low),relationship,0,2.76,145
+Qwen3.5-9B (low),relationship,1,0.0,1
+Qwen3.5-9B (low),relationship,2,4.96,141
+Qwen3.5-9B (low),relationship,3,0.0,4
+Qwen3.5-9B (low),relationship,4,3.65,137
+Qwen3.5-9B (low),relationship,5,12.5,8
+Qwen3.5-9B (low),relationship,6,7.3,137
+Qwen3.5-9B (low),relationship,7,0.0,9
+Qwen3.5-9B (low),relationship,8,8.09,136
+Qwen3.5-9B (low),relationship,9,0.0,12
+Qwen3.5-9B (low),relationship,10,10.61,132
+Qwen3.5-9B (low),relationship,11,0.0,13
+Qwen3.5-9B (low),relationship,12,13.64,132
+Qwen3.5-9B (low),relationship,13,0.0,10
+Qwen3.5-9B (low),relationship,14,7.87,127
+Qwen3.5-9B (low),relationship,15,16.67,12
+Qwen3.5-9B (low),relationship,16,13.16,114
+Qwen3.5-9B (low),relationship,17,0.0,14
+Qwen3.5-9B (low),relationship,18,17.59,108
+Qwen3.5-9B (low),relationship,19,0.0,9
+Qwen3.5-9B (low),sycophancy,0,8.09,235
+Qwen3.5-9B (low),sycophancy,1,0.0,1
+Qwen3.5-9B (low),sycophancy,2,11.89,227
+Qwen3.5-9B (low),sycophancy,3,0.0,11
+Qwen3.5-9B (low),sycophancy,4,10.27,224
+Qwen3.5-9B (low),sycophancy,5,0.0,11
+Qwen3.5-9B (low),sycophancy,6,9.13,219
+Qwen3.5-9B (low),sycophancy,7,0.0,17
+Qwen3.5-9B (low),sycophancy,8,8.88,214
+Qwen3.5-9B (low),sycophancy,9,15.79,19
+Qwen3.5-9B (low),sycophancy,10,10.68,206
+Qwen3.5-9B (low),sycophancy,11,0.0,20
+Qwen3.5-9B (low),sycophancy,12,8.59,198
+Qwen3.5-9B (low),sycophancy,13,15.0,20
+Qwen3.5-9B (low),sycophancy,14,10.4,173
+Qwen3.5-9B (low),sycophancy,15,18.18,22
+Qwen3.5-9B (low),sycophancy,16,10.53,152
+Qwen3.5-9B (low),sycophancy,17,9.09,22
+Qwen3.5-9B (low),sycophancy,18,12.23,139
+Qwen3.5-9B (low),sycophancy,19,9.09,11
